@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'crafting_core_lessons',
-    'rest_framework',
+#     'rest_framework',
 ]
 
 MIDDLEWARE = [

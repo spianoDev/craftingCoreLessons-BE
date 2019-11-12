@@ -1,0 +1,14 @@
+[
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 1,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 1,
+      "anchor_standard_text": "Generate and conceptualize artistic ideas and work.\nEnduring Understanding: The creative ideas, concepts, and feelings that influence musicians’ work emerge from a variety of sources. Essential Question: How do musicians generate creative ideas?",
+      "grade": "Pre K",
+      "standard_title": "MU:Cr1.1.PKa",
+      "standard_text": "With guidance, explore and experience music concepts (for example, beat, melodic contour)."
+    }
+  }
+]

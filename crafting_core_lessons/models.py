@@ -16,11 +16,12 @@ class Lesson(models.Model):
 
 class Standard(models.Model):
     heading = models.CharField(max_length=100)
-    anchor_number = models.IntegerField()
-    anchor_text = models.TextField()
-    title = models.CharField(max_length=20)
-    text = models.TextField()
-    lesson = models.ForeignKey(Lesson, on_delete=models.CASCADE, related_name='standards')
+    grade = models.CharField(default='', max_length=20)
+    anchor_standard_number = models.IntegerField()
+    anchor_standard_text = models.TextField()
+    standard_title = models.CharField(max_length=20)
+    standard_text = models.TextField()
+#     lesson = models.ForeignKey(Lesson, on_delete=models.CASCADE)
 
     def __str__(self):
-        return self.heading
+        return self.standard_title

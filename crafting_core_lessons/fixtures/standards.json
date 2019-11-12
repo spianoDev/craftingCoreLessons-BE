@@ -1,0 +1,2198 @@
+[
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 1,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 1,
+      "anchor_standard_text": "Generate and conceptualize artistic ideas and work.\nEnduring Understanding: The creative ideas, concepts, and feelings that influence musicians’ work emerge from a variety of sources. Essential Question: How do musicians generate creative ideas?",
+      "grade": "Pre K",
+      "standard_title": "MU:Cr1.1.PKa",
+      "standard_text": "With guidance, explore and experience music concepts (for example, beat, melodic contour)."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 2,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 1,
+      "anchor_standard_text": "Generate and conceptualize artistic ideas and work.\nEnduring Understanding: The creative ideas, concepts, and feelings that influence musicians’ work emerge from a variety of sources. Essential Question: How do musicians generate creative ideas?",
+      "grade": "Pre K",
+      "standard_title": "MU:Cr1.1.PKa",
+      "standard_text": "With guidance, explore and experience music concepts (for example, beat, melodic contour)."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 3,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 1,
+      "anchor_standard_text": "Generate and conceptualize artistic ideas and work.\nEnduring Understanding: The creative ideas, concepts, and feelings that influence musicians’ work emerge from a variety of sources. Essential Question: How do musicians generate creative ideas?",
+      "grade": "Kindergarten",
+      "standard_title": "MU:Cr1.1.Ka",
+      "standard_text": "With limited guidance, create musical ideas (for example, answering a musical question) for a specific purpose."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 4,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 1,
+      "anchor_standard_text": "Generate and conceptualize artistic ideas and work.\nEnduring Understanding: The creative ideas, concepts, and feelings that influence musicians’ work emerge from a variety of sources. Essential Question: How do musicians generate creative ideas?",
+      "grade": "1st",
+      "standard_title": "MU:Cr1.1.1a",
+      "standard_text": "Improvise rhythmic and melodic patterns and musical ideas for a specific purpose."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 5,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 1,
+      "anchor_standard_text": "Generate and conceptualize artistic ideas and work.\nEnduring Understanding: The creative ideas, concepts, and feelings that influence musicians’ work emerge from a variety of sources. Essential Question: How do musicians generate creative ideas?",
+      "grade": "2nd",
+      "standard_title": "MU:Cr1.1.2a",
+      "standard_text": "Improvise rhythmic and melodic ideas and describe connection to specific purpose and context (for example, personal, social)."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 6,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 1,
+      "anchor_standard_text": "Generate and conceptualize artistic ideas and work.\nEnduring Understanding: The creative ideas, concepts, and feelings that influence musicians’ work emerge from a variety of sources. Essential Question: How do musicians generate creative ideas?",
+      "grade": "3rd",
+      "standard_title": "MU:Cr1.1.3a",
+      "standard_text": "Improvise rhythmic, melodic, and harmonic ideas and explain connection to specific purpose and context (for example, social, cultural)."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 7,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 1,
+      "anchor_standard_text": "Generate and conceptualize artistic ideas and work.\nEnduring Understanding: The creative ideas, concepts, and feelings that influence musicians’ work emerge from a variety of sources. Essential Question: How do musicians generate creative ideas?",
+      "grade": "4th",
+      "standard_title": "MU:Cr1.1.4a",
+      "standard_text": "Improvise rhythmic, melodic, and harmonic ideas, and explain connection to specific purpose and context (for example, social, cultural, historical)."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 8,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 1,
+      "anchor_standard_text": "Generate and conceptualize artistic ideas and work.\nEnduring Understanding: The creative ideas, concepts, and feelings that influence musicians’ work emerge from a variety of sources. Essential Question: How do musicians generate creative ideas?",
+      "grade": "5th",
+      "standard_title": "MU:Cr1.1.5a",
+      "standard_text": "Compose simple rhythmic, melodic, and harmonic phrases within a given form that convey expressive intent."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 9,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 1,
+      "anchor_standard_text": "Generate and conceptualize artistic ideas and work.\nEnduring Understanding: The creative ideas, concepts, and feelings that influence musicians’ work emerge from a variety of sources. Essential Question: How do musicians generate creative ideas?",
+      "grade": "6th",
+      "standard_title": "MU:Cr1.1.6a",
+      "standard_text": "Compose rhythmic, melodic, and harmonic phrases over harmonic accompaniments within a given form(s) that convey expressive intent."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 10,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 1,
+      "anchor_standard_text": "Generate and conceptualize artistic ideas and work.\nEnduring Understanding: The creative ideas, concepts, and feelings that influence musicians’ work emerge from a variety of sources. Essential Question: How do musicians generate creative ideas?",
+      "grade": "7th",
+      "standard_title": "MU:Cr1.1.7a",
+      "standard_text": "Compose rhythmic, melodic, and harmonic phrases over harmonic accompaniments within a given form(s) that convey expressive intent."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 11,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 1,
+      "anchor_standard_text": "Generate and conceptualize artistic ideas and work.\nEnduring Understanding: The creative ideas, concepts, and feelings that influence musicians’ work emerge from a variety of sources. Essential Question: How do musicians generate creative ideas?",
+      "grade": "8th",
+      "standard_title": "MU:Cr1.1.8a",
+      "standard_text": "Compose increasingly complex rhythmic, melodic, and harmonic phrases over harmonic accompaniments within a given form(s) that convey expressive intent."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 12,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 2,
+      "anchor_standard_text": "Organize and develop artistic ideas and work.\nEnduring Understanding: Musicians’ creative choices are influenced by their expertise, context, and expressive intent. Essential Questions: How do musicians make creative decisions?",
+      "grade": "Pre K",
+      "standard_title": "MU:Cr2.1.PKa",
+      "standard_text": "With substantial guidance, explore favorite musical ideas (for example, movements, vocalizations, instrumental accompaniments)."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 13,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 2,
+      "anchor_standard_text": "Organize and develop artistic ideas and work.\nEnduring Understanding: Musicians’ creative choices are influenced by their expertise, context, and expressive intent. Essential Questions: How do musicians make creative decisions?",
+      "grade": "Kindergarten",
+      "standard_title": "MU:Cr2.1.Ka",
+      "standard_text": " With guidance, demonstrate and choose favorite musical ideas."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 14,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 2,
+      "anchor_standard_text": "Organize and develop artistic ideas and work.\nEnduring Understanding: Musicians’ creative choices are influenced by their expertise, context, and expressive intent. Essential Questions: How do musicians make creative decisions?",
+      "grade": "1st",
+      "standard_title": "MU:Cr2.1.1a",
+      "standard_text": "With limited guidance, demonstrate and discuss personal reasons for selecting musical ideas that represent expressive intent."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 15,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 2,
+      "anchor_standard_text": "Organize and develop artistic ideas and work.\nEnduring Understanding: Musicians’ creative choices are influenced by their expertise, context, and expressive intent. Essential Questions: How do musicians make creative decisions?",
+      "grade": "1st",
+      "standard_title": "MU:Cr2.1.1b",
+      "standard_text": "With limited guidance, use iconic\nor standard notation and/or recording technology to document and organize personal musical ideas."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 16,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 2,
+      "anchor_standard_text": "Organize and develop artistic ideas and work.\nEnduring Understanding: Musicians’ creative choices are influenced by their expertise, context, and expressive intent. Essential Questions: How do musicians make creative decisions?",
+      "grade": "2nd",
+      "standard_title": "MU:Cr2.1.2a",
+      "standard_text": "Demonstrate and explain personal reasons for selecting patterns and ideas for music that represent expressive intent."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 17,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 2,
+      "anchor_standard_text": "Organize and develop artistic ideas and work.\nEnduring Understanding: Musicians’ creative choices are influenced by their expertise, context, and expressive intent. Essential Questions: How do musicians make creative decisions?",
+      "grade": "2nd",
+      "standard_title": "MU:Cr2.1.2b",
+      "standard_text": "Use iconic or standard notation and/ or recording technology to combine, sequence, and document personal musical ideas."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 18,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 2,
+      "anchor_standard_text": "Organize and develop artistic ideas and work.\nEnduring Understanding: Musicians’ creative choices are influenced by their expertise, context, and expressive intent. Essential Questions: How do musicians make creative decisions?",
+      "grade": "3rd",
+      "standard_title": "MU:Cr2.1.3a",
+      "standard_text": "Demonstrate selected musical ideas for a simple improvisation or composition to express intent and describe connection to a specific purpose and context."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 19,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 2,
+      "anchor_standard_text": "Organize and develop artistic ideas and work.\nEnduring Understanding: Musicians’ creative choices are influenced by their expertise, context, and expressive intent. Essential Questions: How do musicians make creative decisions?",
+      "grade": "3rd",
+      "standard_title": "MU:Cr2.1.3b",
+      "standard_text": "Use standard and/ or iconic notation and/ or recording technology to document personal rhythmic and melodic musical ideas."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 20,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 2,
+      "anchor_standard_text": "Organize and develop artistic ideas and work.\nEnduring Understanding: Musicians’ creative choices are influenced by their expertise, context, and expressive intent. Essential Questions: How do musicians make creative decisions?",
+      "grade": "4th",
+      "standard_title": "MU:Cr2.1.4a",
+      "standard_text": "Demonstrate selected and organized musical ideas for\nan improvisation, arrangement, or composition to express intent, and explain connection to purpose and context."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 21,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 2,
+      "anchor_standard_text": "Organize and develop artistic ideas and work.\nEnduring Understanding: Musicians’ creative choices are influenced by their expertise, context, and expressive intent. Essential Questions: How do musicians make creative decisions?",
+      "grade": "4th",
+      "standard_title": "MU:Cr2.1.4b",
+      "standard_text": "Use standard and/ or iconic notation and/ or recording technology to document personal rhythmic, melodic,\nand simple harmonic musical ideas."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 22,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 2,
+      "anchor_standard_text": "Organize and develop artistic ideas and work.\nEnduring Understanding: Musicians’ creative choices are influenced by their expertise, context, and expressive intent. Essential Questions: How do musicians make creative decisions?",
+      "grade": "5th",
+      "standard_title": "MU:Cr2.1.5a",
+      "standard_text": "Demonstrate selected and developed musical ideas for improvisations, arrangement, or compositions to express intent, and explain connection to purpose and context."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 23,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 2,
+      "anchor_standard_text": "Organize and develop artistic ideas and work.\nEnduring Understanding: Musicians’ creative choices are influenced by their expertise, context, and expressive intent. Essential Questions: How do musicians make creative decisions?",
+      "grade": "5th",
+      "standard_title": "MU:Cr2.1.5b",
+      "standard_text": "Use standard and/\nor iconic notation and/ or recording technology to document personal rhythmic, melodic, and increasingly complex harmonic musical ideas."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 24,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 2,
+      "anchor_standard_text": "Organize and develop artistic ideas and work.\nEnduring Understanding: Musicians’ creative choices are influenced by their expertise, context, and expressive intent. Essential Questions: How do musicians make creative decisions?",
+      "grade": "6th",
+      "standard_title": "MU:Cr2.1.6a",
+      "standard_text": "Select, organize, construct, and document personal musical ideas for arrangements and compositions within given form(s) that demonstrate effective beginning, middle, and ending, and convey expressive intent."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 25,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 2,
+      "anchor_standard_text": "Organize and develop artistic ideas and work.\nEnduring Understanding: Musicians’ creative choices are influenced by their expertise, context, and expressive intent. Essential Questions: How do musicians make creative decisions?",
+      "grade": "6th",
+      "standard_title": "MU:Cr2.1.6b",
+      "standard_text": " Use standard and/\nor iconic notation and/ or audio/video recording to document personal rhythmic phrases, melodic phrases, and harmonic musical ideas."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 26,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 2,
+      "anchor_standard_text": "Organize and develop artistic ideas and work.\nEnduring Understanding: Musicians’ creative choices are influenced by their expertise, context, and expressive intent. Essential Questions: How do musicians make creative decisions?",
+      "grade": "7th",
+      "standard_title": "MU:Cr2.1.7a",
+      "standard_text": " Select, organize, develop, and document personal musical ideas for arrangements, song, and compositions within a given form(s) that utilize compositional techniques and convey expressive intent."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 27,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 2,
+      "anchor_standard_text": "Organize and develop artistic ideas and work.\nEnduring Understanding: Musicians’ creative choices are influenced by their expertise, context, and expressive intent. Essential Questions: How do musicians make creative decisions?",
+      "grade": "7th",
+      "standard_title": "MU:Cr2.1.7b",
+      "standard_text": "Use standard and/\nor iconic notation and/ or audio/video recording to document personal rhythmic phrases, melodic phrases, and harmonic sequences."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 28,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 2,
+      "anchor_standard_text": "Organize and develop artistic ideas and work.\nEnduring Understanding: Musicians’ creative choices are influenced by their expertise, context, and expressive intent. Essential Questions: How do musicians make creative decisions?",
+      "grade": "8th",
+      "standard_title": "MU:Cr2.1.8a",
+      "standard_text": "Select, organize,\nand document musical ideas for arrangements, song, and compositions within expanded\nforms that utilize various compositional techniques and convey expressive intent."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 29,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 2,
+      "anchor_standard_text": "Organize and develop artistic ideas and work.\nEnduring Understanding: Musicians’ creative choices are influenced by their expertise, context, and expressive intent. Essential Questions: How do musicians make creative decisions?",
+      "grade": "8th",
+      "standard_title": "MU:Cr2.1.8b",
+      "standard_text": "Use standard and/\nor iconic notation and/ or audio/video recording to document personal rhythmic phrases, melodic phrases, and harmonic sequences."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 30,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 3,
+      "anchor_standard_text": "Revise, refine, and complete artistic work.\nEnduring Understanding: Musicians evaluate and refine their work through openness to new ideas, persistence, and the application of the appropriate criteria. Essential Question: How do musicians improve the quality of their creative work and decide when it’s ready to share?",
+      "grade": "Pre K",
+      "standard_title": "MU:Cr3.1.PKa",
+      "standard_text": "With substantial guidance, consider personal, peer, and teacher feedback when demonstrating and refining personal musical ideas."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 31,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 3,
+      "anchor_standard_text": "Revise, refine, and complete artistic work.\nEnduring Understanding: Musicians evaluate and refine their work through openness to new ideas, persistence, and the application of the appropriate criteria. Essential Question: How do musicians improve the quality of their creative work and decide when it’s ready to share?",
+      "grade": "Pre K",
+      "standard_title": "MU:Cr3.1.PKb",
+      "standard_text": "With substantial guidance, share revised personal musical ideas with peers."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 32,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 3,
+      "anchor_standard_text": "Revise, refine, and complete artistic work.\nEnduring Understanding: Musicians evaluate and refine their work through openness to new ideas, persistence, and the application of the appropriate criteria. Essential Question: How do musicians improve the quality of their creative work and decide when it’s ready to share?",
+      "grade": "Kindergarten",
+      "standard_title": "MU:Cr3.1.Ka",
+      "standard_text": "With guidance, apply personal, peer, or teacher feedback in refining personal musical ideas."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 33,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 3,
+      "anchor_standard_text": "Revise, refine, and complete artistic work.\nEnduring Understanding: Musicians evaluate and refine their work through openness to new ideas, persistence, and the application of the appropriate criteria. Essential Question: How do musicians improve the quality of their creative work and decide when it’s ready to share?",
+      "grade": "Kindergarten",
+      "standard_title": "MU:Cr3.1.Kb",
+      "standard_text": "With limited guidance, demonstrate a final version of personal musical ideas to peers."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 34,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 3,
+      "anchor_standard_text": "Revise, refine, and complete artistic work.\nEnduring Understanding: Musicians evaluate and refine their work through openness to new ideas, persistence, and the application of the appropriate criteria. Essential Question: How do musicians improve the quality of their creative work and decide when it’s ready to share?",
+      "grade": "1st",
+      "standard_title": "MU:Cr3.1.1a",
+      "standard_text": "With limited guidance, discuss and apply personal, peer, and teacher feedback to refine personal musical ideas."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 35,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 3,
+      "anchor_standard_text": "Revise, refine, and complete artistic work.\nEnduring Understanding: Musicians evaluate and refine their work through openness to new ideas, persistence, and the application of the appropriate criteria. Essential Question: How do musicians improve the quality of their creative work and decide when it’s ready to share?",
+      "grade": "1st",
+      "standard_title": "MU:Cr3.1.1b",
+      "standard_text": "With limited guidance, present a final version of personal musical ideas to peers."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 36,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 3,
+      "anchor_standard_text": "Revise, refine, and complete artistic work.\nEnduring Understanding: Musicians evaluate and refine their work through openness to new ideas, persistence, and the application of the appropriate criteria. Essential Question: How do musicians improve the quality of their creative work and decide when it’s ready to share?",
+      "grade": "2nd",
+      "standard_title": "MU:Cr3.1.2a",
+      "standard_text": " Interpret and apply personal, peer, and teacher feedback to revise personal music."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 37,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 3,
+      "anchor_standard_text": "Revise, refine, and complete artistic work.\nEnduring Understanding: Musicians evaluate and refine their work through openness to new ideas, persistence, and the application of the appropriate criteria. Essential Question: How do musicians improve the quality of their creative work and decide when it’s ready to share?",
+      "grade": "2nd",
+      "standard_title": "MU:Cr3.1.2b",
+      "standard_text": "Present a final version of personal musical ideas to peers or informal audience."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 38,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 3,
+      "anchor_standard_text": "Revise, refine, and complete artistic work.\nEnduring Understanding: Musicians evaluate and refine their work through openness to new ideas, persistence, and the application of the appropriate criteria. Essential Question: How do musicians improve the quality of their creative work and decide when it’s ready to share?",
+      "grade": "3rd",
+      "standard_title": "MU:Cr3.1.3a",
+      "standard_text": "Document revisions to personal musical ideas, applying teacher-provided\nand collaboratively developed criteria and feedback."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 39,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 3,
+      "anchor_standard_text": "Revise, refine, and complete artistic work.\nEnduring Understanding: Musicians evaluate and refine their work through openness to new ideas, persistence, and the application of the appropriate criteria. Essential Question: How do musicians improve the quality of their creative work and decide when it’s ready to share?",
+      "grade": "3rd",
+      "standard_title": "MU:Cr3.1.3b",
+      "standard_text": "Present the final version of personal created music to others and describe connection to expressive intent."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 40,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 3,
+      "anchor_standard_text": "Revise, refine, and complete artistic work.\nEnduring Understanding: Musicians evaluate and refine their work through openness to new ideas, persistence, and the application of the appropriate criteria. Essential Question: How do musicians improve the quality of their creative work and decide when it’s ready to share?",
+      "grade": "4th",
+      "standard_title": "MU:Cr3.1.4a",
+      "standard_text": "Refine and document revisions to personal music, applying teacher-provided\nand collaboratively developed criteria\nand feedback to show improvement over time."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 41,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 3,
+      "anchor_standard_text": "Revise, refine, and complete artistic work.\nEnduring Understanding: Musicians evaluate and refine their work through openness to new ideas, persistence, and the application of the appropriate criteria. Essential Question: How do musicians improve the quality of their creative work and decide when it’s ready to share?",
+      "grade": "4th",
+      "standard_title": "MU:Cr3.1.4b",
+      "standard_text": "Present the final version of personal created music to others and explain connection to expressive intent."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 42,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 3,
+      "anchor_standard_text": "Revise, refine, and complete artistic work.\nEnduring Understanding: Musicians evaluate and refine their work through openness to new ideas, persistence, and the application of the appropriate criteria. Essential Question: How do musicians improve the quality of their creative work and decide when it’s ready to share?",
+      "grade": "5th",
+      "standard_title": "MU:Cr3.1.5a",
+      "standard_text": "Evaluate, refine, and document revisions to personal music, applying teacher-provided\nand collaboratively developed criteria and feedback and explain rationale for changes."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 43,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 3,
+      "anchor_standard_text": "Revise, refine, and complete artistic work.\nEnduring Understanding: Musicians evaluate and refine their work through openness to new ideas, persistence, and the application of the appropriate criteria. Essential Question: How do musicians improve the quality of their creative work and decide when it’s ready to share?",
+      "grade": "5th",
+      "standard_title": "MU:Cr3.1.5b",
+      "standard_text": "Present the final version of personal created music to others that demonstrates musicianship and explain connection to expressive intent."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 44,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 3,
+      "anchor_standard_text": "Revise, refine, and complete artistic work.\nEnduring Understanding: Musicians evaluate and refine their work through openness to new ideas, persistence, and the application of the appropriate criteria. Essential Question: How do musicians improve the quality of their creative work and decide when it’s ready to share?",
+      "grade": "6th",
+      "standard_title": "MU:Cr3.1.6a",
+      "standard_text": "Evaluate their own work, applying teacher- provided criteria."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 45,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 3,
+      "anchor_standard_text": "Revise, refine, and complete artistic work.\nEnduring Understanding: Musicians evaluate and refine their work through openness to new ideas, persistence, and the application of the appropriate criteria. Essential Question: How do musicians improve the quality of their creative work and decide when it’s ready to share?",
+      "grade": "6th",
+      "standard_title": "MU:Cr3.1.6b",
+      "standard_text": "Present the\nfinal version of a personal composition\nor arrangement,\nusing musicianship\nand originality to demonstrate an effective beginning, middle, and ending and convey expressive intent."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 46,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 3,
+      "anchor_standard_text": "Revise, refine, and complete artistic work.\nEnduring Understanding: Musicians evaluate and refine their work through openness to new ideas, persistence, and the application of the appropriate criteria. Essential Question: How do musicians improve the quality of their creative work and decide when it’s ready to share?",
+      "grade": "6th",
+      "standard_title": "MU:Cr3.1.6c",
+      "standard_text": "Describe the rationale for making revisions\nto the music based\non evaluation criteria and feedback from the teacher."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 47,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 3,
+      "anchor_standard_text": "Revise, refine, and complete artistic work.\nEnduring Understanding: Musicians evaluate and refine their work through openness to new ideas, persistence, and the application of the appropriate criteria. Essential Question: How do musicians improve the quality of their creative work and decide when it’s ready to share?",
+      "grade": "7th",
+      "standard_title": "MU:Cr3.1.7a",
+      "standard_text": "Evaluate their own work, applying teacher- or student-developed criteria."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 48,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 3,
+      "anchor_standard_text": "Revise, refine, and complete artistic work.\nEnduring Understanding: Musicians evaluate and refine their work through openness to new ideas, persistence, and the application of the appropriate criteria. Essential Question: How do musicians improve the quality of their creative work and decide when it’s ready to share?",
+      "grade": "7th",
+      "standard_title": "MU:Cr3.1.7b",
+      "standard_text": "Present the final version of a personal composition or arrangement, using musicianship and originality to utilize compositional techniques and convey expressive intent."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 49,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 3,
+      "anchor_standard_text": "Revise, refine, and complete artistic work.\nEnduring Understanding: Musicians evaluate and refine their work through openness to new ideas, persistence, and the application of the appropriate criteria. Essential Question: How do musicians improve the quality of their creative work and decide when it’s ready to share?",
+      "grade": "7th",
+      "standard_title": "MU:Cr3.1.7c",
+      "standard_text": "Describe the rationale for making revisions\nto the music based on evaluation criteria and feedback from others (teachers and peers)."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 50,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 3,
+      "anchor_standard_text": "Revise, refine, and complete artistic work.\nEnduring Understanding: Musicians evaluate and refine their work through openness to new ideas, persistence, and the application of the appropriate criteria. Essential Question: How do musicians improve the quality of their creative work and decide when it’s ready to share?",
+      "grade": "8th",
+      "standard_title": "MU:Cr3.1.8a",
+      "standard_text": " Evaluate their own work by selecting and applying criteria."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 51,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 3,
+      "anchor_standard_text": "Revise, refine, and complete artistic work.\nEnduring Understanding: Musicians evaluate and refine their work through openness to new ideas, persistence, and the application of the appropriate criteria. Essential Question: How do musicians improve the quality of their creative work and decide when it’s ready to share?",
+      "grade": "8th",
+      "standard_title": "MU:Cr3.1.8b",
+      "standard_text": "Present the final version of a personal composition or arrangement, using musicianship and originality to utilize various compositional techniques and convey expressive intent."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 52,
+    "fields": {
+      "heading": "Creating",
+      "anchor_standard_number": 3,
+      "anchor_standard_text": "Revise, refine, and complete artistic work.\nEnduring Understanding: Musicians evaluate and refine their work through openness to new ideas, persistence, and the application of the appropriate criteria. Essential Question: How do musicians improve the quality of their creative work and decide when it’s ready to share?",
+      "grade": "8th",
+      "standard_title": "MU:Cr3.1.8c",
+      "standard_text": "Describe the rationale for refining works by explaining the choices based on evaluation criteria."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 53,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "Pre K",
+      "standard_title": "MU:Cr4.1.PKa",
+      "standard_text": "With substantial guidance, demonstrate and state preference for varied musical selections."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 54,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "Pre K",
+      "standard_title": "MU:Cr4.1.PKb",
+      "standard_text": " With substantial guidance, explore and demonstrate awareness of musical contrasts (for example, high/low, loud/ soft, same/different)."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 55,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "Pre K",
+      "standard_title": "MU:Cr4.1.PKc",
+      "standard_text": "With guidance, demonstrate awareness of expressive qualities (for example, voice quality, dynamics, tempo) that support the performers’ expressive intent."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 56,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "Kindergarten",
+      "standard_title": "MU:Cr4.1.Ka",
+      "standard_text": "With guidance, demonstrate and state personal interest in varied musical selections."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 57,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "Kindergarten",
+      "standard_title": "MU:Cr4.1.Kb",
+      "standard_text": "With guidance, explore and demonstrate awareness of musical contrasts (for example, high/low, loud/soft, same/different) in a variety of music selected for performance."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 58,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "Kindergarten",
+      "standard_title": "MU:Cr4.1.Kc",
+      "standard_text": "With guidance, demonstrate awareness of expressive qualities (for example, voice quality, dynamics, tempo) that support the performers’ expressive intent."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 59,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "1st",
+      "standard_title": "MU:Cr4.1.1a",
+      "standard_text": "With limited guidance, demonstrate and discuss personal interest in, knowledge about, and purpose\nof varied musical selections."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 60,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "1st",
+      "standard_title": "MU:Cr4.1.1b",
+      "standard_text": "With limited guidance, demonstrate knowledge of musical concepts (for example, beat, melodic\ncontour) in a variety\nof music selected for performance."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 61,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "1st",
+      "standard_title": "MU:Cr4.1.1c",
+      "standard_text": "When analyzing selected music, read and perform simple rhythmic and melodic patterns using iconic or standard notation."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 62,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "1st",
+      "standard_title": "MU:Cr4.1.1d",
+      "standard_text": "Demonstrate and describe music’s expressive qualities (for example, dynamics, tempo)."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 63,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "2nd",
+      "standard_title": "MU:Cr4.1.2a",
+      "standard_text": "Demonstrate and explain personal interest in, knowledge about, and purpose of varied musical selections."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 64,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "2nd",
+      "standard_title": "MU:Cr4.1.2b",
+      "standard_text": "Demonstrate knowledge of musical concepts (for example, tonality, meter) in a variety of music for performance."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 65,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "2nd",
+      "standard_title": "MU:Cr4.1.2c",
+      "standard_text": "When analyzing selected music, read and perform rhythmic and melodic patterns using iconic or standard notation."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 66,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "2nd",
+      "standard_title": "MU:Cr4.1.2d",
+      "standard_text": "Demonstrate understanding of expressive qualities (for example, dynamics, tempo) and how performers use them to convey expressive intent."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 67,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "3rd",
+      "standard_title": "MU:Cr4.1.3a",
+      "standard_text": "Demonstrate and explain how the selection of music to perform is influenced\nby personal interest, knowledge, purpose, and context."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 68,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "3rd",
+      "standard_title": "MU:Cr4.1.3b",
+      "standard_text": "Demonstrate understanding of the structure in music selected for performance."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 69,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "3rd",
+      "standard_title": "MU:Cr4.1.3c",
+      "standard_text": "When analyzing selected music, read and perform rhythmic patterns and melodic phrases using iconic and standard notation."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 70,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "3rd",
+      "standard_title": "MU:Cr4.1.3d",
+      "standard_text": "Demonstrate and explain how the selection of music to perform is influenced by personal interest, knowledge, context, and musicianship."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 71,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "4th",
+      "standard_title": "MU:Cr4.1.4a",
+      "standard_text": "Demonstrate understanding of the structure and the elements of music in music selected for performance."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 72,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "4th",
+      "standard_title": "MU:Cr4.1.4b",
+      "standard_text": "Demonstrate understanding of the structure in music selected for performance."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 73,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "4th",
+      "standard_title": "MU:Cr4.1.4c",
+      "standard_text": "When analyzing selected music, read and perform using iconic and/or standard notation."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 74,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "4th",
+      "standard_title": "MU:Cr4.1.4d",
+      "standard_text": "Demonstrate and explain how intent\nis conveyed through interpretive decisions and expressive qualities (for example, dynamics, tempo, timbre)."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 75,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "5th",
+      "standard_title": "MU:Cr4.1.5a",
+      "standard_text": " Demonstrate and explain how the selection of music to perform is influenced\nby personal interest, knowledge, and\ncontext as well as the musicianship of self and others."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 76,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "5th",
+      "standard_title": "MU:Cr4.1.5b",
+      "standard_text": "Demonstrate understanding of the structure and the elements of music in music selected for performance."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 77,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "5th",
+      "standard_title": "MU:Cr4.1.5c",
+      "standard_text": "When analyzing selected music, read and perform using notation."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 78,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "5th",
+      "standard_title": "MU:Cr4.1.5d",
+      "standard_text": "Demonstrate and explain how intent\nis conveyed through interpretive decisions and expressive qualities (for example, dynamics, tempo, timbre, articulation/style)."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 79,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "6th",
+      "standard_title": "MU:Cr4.1.6a",
+      "standard_text": "Apply teacher- provided criteria for selecting music to perform for a specific purpose and/or context, and explain why each was chosen."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 80,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "6th",
+      "standard_title": "MU:Cr4.1.6b",
+      "standard_text": "Explain how understanding the structure and the elements of music are used in music selected for performance."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 81,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "6th",
+      "standard_title": "MU:Cr4.1.6c",
+      "standard_text": "When analyzing selected music, read and identify by name\nor function standard musical symbols (for example, rhythm, pitch, articulation, dynamics)."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 82,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "6th",
+      "standard_title": "MU:Cr4.1.6d",
+      "standard_text": "Perform a selected piece of music demonstrating how their interpretations of the elements of music and the expressive qualities (for example, dynamics, tempo, timbre, articulation/ style, phrasing) convey intent."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 83,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "7th",
+      "standard_title": "MU:Cr4.1.7a",
+      "standard_text": "Select varied repertoire to study based on interest, music reading skills where appropriate, understanding the structure of the music, context, and the technical skill of the individual or ensemble."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 84,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "7th",
+      "standard_title": "MU:Cr4.1.7b",
+      "standard_text": "Demonstrate\nor analyze, using music reading skills where appropriate, how knowledge of formal aspects in musical works inform prepared or improvised performances."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 85,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "7th",
+      "standard_title": "MU:Cr4.1.7c",
+      "standard_text": "Identify expressive qualities in a varied repertoire of music that can be demonstrated through prepared\nand improvised performances."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 86,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "7th",
+      "standard_title": "MU:Cr4.1.7d",
+      "standard_text": "Perform contrasting pieces of music demonstrating their interpretations of the elements of music and expressive qualities (for example, dynamics, tempo, timbre, articulation/style, phrasing) convey intent."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 87,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "8th",
+      "standard_title": "MU:Cr4.1.8a",
+      "standard_text": "Select a varied repertoire to study based on music reading skills where appropriate,\nan understanding of form and tonality in\nthe music, context,\nand the technical skill of the individual and ensemble."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 88,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "8th",
+      "standard_title": "MU:Cr4.1.8b",
+      "standard_text": "Demonstrate or analyze, using music reading skills where appropriate, how the setting and formal characteristics\nof musical works contribute to understanding the context of the music in prepared or improvised performance."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 89,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "8th",
+      "standard_title": "MU:Cr4.1.8c",
+      "standard_text": "Demonstrate understanding and application of expressive qualities in a varied repertoire of music through prepared\nand improvised performances."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 90,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "8th",
+      "standard_title": "MU:Cr4.1.8d",
+      "standard_text": "Perform contrasting pieces of music, demonstrating as well as explaining how\nthe music’s intent\nis conveyed by their interpretations of the elements of music and expressive qualities (for example, dynamics, tempo, timbre, articulation/style, phrasing)."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 91,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 4,
+      "anchor_standard_text": "Select, analyze, and interpret artistic work for presentation.\nEnduring Understanding: Performers’ interest in and knowledge of musical works, context for performance, and understanding of their own musicianship influence the selection of repertoire.\nEssential Question: How do performers select, analyze, and interpret musical works?",
+      "grade": "8th",
+      "standard_title": "MU:Cr4.1.8d",
+      "standard_text": "Perform contrasting pieces of music, demonstrating as well as explaining how\nthe music’s intent\nis conveyed by their interpretations of the elements of music and expressive qualities (for example, dynamics, tempo, timbre, articulation/style, phrasing)."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 92,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 5,
+      "anchor_standard_text": "Develop and refine artistic techniques and work for presentation.\nEnduring Understanding: To express their musical idea, musicians analyze, evaluate, and refine their performance over time through openness to new ideas, persistence, and the application of appropriate criteria. Essential Question: How do musicians improve the quality of their performance?",
+      "grade": "Pre K",
+      "standard_title": "MU:Pr5.1.PKa",
+      "standard_text": "With substantial guidance, practice and demonstrate what they like about their own performances."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 93,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 5,
+      "anchor_standard_text": "Develop and refine artistic techniques and work for presentation.\nEnduring Understanding: To express their musical idea, musicians analyze, evaluate, and refine their performance over time through openness to new ideas, persistence, and the application of appropriate criteria. Essential Question: How do musicians improve the quality of their performance?",
+      "grade": "Kindergarten",
+      "standard_title": "MU:Pr5.1.Ka",
+      "standard_text": "With guidance, apply personal, teacher, and peer feedback to refine performances."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 94,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 5,
+      "anchor_standard_text": "Develop and refine artistic techniques and work for presentation.\nEnduring Understanding: To express their musical idea, musicians analyze, evaluate, and refine their performance over time through openness to new ideas, persistence, and the application of appropriate criteria. Essential Question: How do musicians improve the quality of their performance?",
+      "grade": "1st",
+      "standard_title": "MU:Pr5.1.1a",
+      "standard_text": "With limited guidance, apply personal, teacher, and peer feedback to refine performances."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 95,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 5,
+      "anchor_standard_text": "Develop and refine artistic techniques and work for presentation.\nEnduring Understanding: To express their musical idea, musicians analyze, evaluate, and refine their performance over time through openness to new ideas, persistence, and the application of appropriate criteria. Essential Question: How do musicians improve the quality of their performance?",
+      "grade": "2nd",
+      "standard_title": "MU:Pr5.1.2a",
+      "standard_text": " Apply established criteria to judge\nthe accuracy, expressiveness, and effectiveness of performances."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 96,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 5,
+      "anchor_standard_text": "Develop and refine artistic techniques and work for presentation.\nEnduring Understanding: To express their musical idea, musicians analyze, evaluate, and refine their performance over time through openness to new ideas, persistence, and the application of appropriate criteria. Essential Question: How do musicians improve the quality of their performance?",
+      "grade": "3rd",
+      "standard_title": "MU:Pr5.1.3a",
+      "standard_text": "Apply teacher- provided and collaboratively developed criteria and feedback to evaluate accuracy of ensemble performances."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 97,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 5,
+      "anchor_standard_text": "Develop and refine artistic techniques and work for presentation.\nEnduring Understanding: To express their musical idea, musicians analyze, evaluate, and refine their performance over time through openness to new ideas, persistence, and the application of appropriate criteria. Essential Question: How do musicians improve the quality of their performance?",
+      "grade": "4th",
+      "standard_title": "MU:Pr5.1.4a",
+      "standard_text": "Apply teacher- provided and collaboratively developed criteria\nand feedback to evaluate accuracy\nand expressiveness of ensemble and personal performances."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 98,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 5,
+      "anchor_standard_text": "Develop and refine artistic techniques and work for presentation.\nEnduring Understanding: To express their musical idea, musicians analyze, evaluate, and refine their performance over time through openness to new ideas, persistence, and the application of appropriate criteria. Essential Question: How do musicians improve the quality of their performance?",
+      "grade": "5th",
+      "standard_title": "MU:Pr5.1.5a",
+      "standard_text": "Apply teacher- provided and established criteria and feedback to evaluate the accuracy and expressiveness of ensemble and personal performances."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 99,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 5,
+      "anchor_standard_text": "Develop and refine artistic techniques and work for presentation.\nEnduring Understanding: To express their musical idea, musicians analyze, evaluate, and refine their performance over time through openness to new ideas, persistence, and the application of appropriate criteria. Essential Question: How do musicians improve the quality of their performance?",
+      "grade": "6th",
+      "standard_title": "MU:Pr5.1.6a",
+      "standard_text": "Identify and apply teacher-provided criteria to rehearse, refine, and determine when a piece is ready to perform."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 100,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 5,
+      "anchor_standard_text": "Develop and refine artistic techniques and work for presentation.\nEnduring Understanding: To express their musical idea, musicians analyze, evaluate, and refine their performance over time through openness to new ideas, persistence, and the application of appropriate criteria. Essential Question: How do musicians improve the quality of their performance?",
+      "grade": "7th",
+      "standard_title": "MU:Pr5.1.7a",
+      "standard_text": "Apply teacher- provided criteria to critique individual performances of a varied repertoire of music selected for performance and refine the performances."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 101,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 5,
+      "anchor_standard_text": "Develop and refine artistic techniques and work for presentation.\nEnduring Understanding: To express their musical idea, musicians analyze, evaluate, and refine their performance over time through openness to new ideas, persistence, and the application of appropriate criteria. Essential Question: How do musicians improve the quality of their performance?",
+      "grade": "8th",
+      "standard_title": "MU:Pr5.1.8a",
+      "standard_text": "Apply teacher- provided criteria to critique individual performances of a varied repertoire of music selected for performance, identify practice strategies to address performance challenges, and refine the performances."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 102,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 6,
+      "anchor_standard_text": "Convey meaning through the presentation of artistic work.\nEnduring Understanding: Musicians judge performance based on criteria that vary across time, place, and cultures. The context and how a work is presented influence the audience response. Essential Questions: (a) How do musicians improve the quality of their performance? (b) How do context and the manner in which musical work is presented influence audience response?",
+      "grade": "Pre K",
+      "standard_title": "MU:Pr6.1.PKa",
+      "standard_text": "With substantial guidance, perform music with expression."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 103,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 6,
+      "anchor_standard_text": "Convey meaning through the presentation of artistic work.\nEnduring Understanding: Musicians judge performance based on criteria that vary across time, place, and cultures. The context and how a work is presented influence the audience response. Essential Questions: (a) How do musicians improve the quality of their performance? (b) How do context and the manner in which musical work is presented influence audience response?",
+      "grade": "Kindergarten",
+      "standard_title": "MU:Pr6.1.Ka",
+      "standard_text": "With guidance, perform music with expression."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 104,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 6,
+      "anchor_standard_text": "Convey meaning through the presentation of artistic work.\nEnduring Understanding: Musicians judge performance based on criteria that vary across time, place, and cultures. The context and how a work is presented influence the audience response. Essential Questions: (a) How do musicians improve the quality of their performance? (b) How do context and the manner in which musical work is presented influence audience response?",
+      "grade": "Kindergarten",
+      "standard_title": "MU:Pr6.1.Kb",
+      "standard_text": "Perform appropriately for the audience."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 105,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 6,
+      "anchor_standard_text": "Convey meaning through the presentation of artistic work.\nEnduring Understanding: Musicians judge performance based on criteria that vary across time, place, and cultures. The context and how a work is presented influence the audience response. Essential Questions: (a) How do musicians improve the quality of their performance? (b) How do context and the manner in which musical work is presented influence audience response?",
+      "grade": "1st",
+      "standard_title": "MU:Pr6.1.1a",
+      "standard_text": "With limited guidance, perform music for a specific purpose with expression."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 106,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 6,
+      "anchor_standard_text": "Convey meaning through the presentation of artistic work.\nEnduring Understanding: Musicians judge performance based on criteria that vary across time, place, and cultures. The context and how a work is presented influence the audience response. Essential Questions: (a) How do musicians improve the quality of their performance? (b) How do context and the manner in which musical work is presented influence audience response?",
+      "grade": "1st",
+      "standard_title": "MU:Pr6.1.1b",
+      "standard_text": "Perform appropriately for the audience and purpose."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 107,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 6,
+      "anchor_standard_text": "Convey meaning through the presentation of artistic work.\nEnduring Understanding: Musicians judge performance based on criteria that vary across time, place, and cultures. The context and how a work is presented influence the audience response. Essential Questions: (a) How do musicians improve the quality of their performance? (b) How do context and the manner in which musical work is presented influence audience response?",
+      "grade": "2nd",
+      "standard_title": "MU:Pr6.1.2a",
+      "standard_text": "Perform music for a specific purpose with expression and technical accuracy."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 108,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 6,
+      "anchor_standard_text": "Convey meaning through the presentation of artistic work.\nEnduring Understanding: Musicians judge performance based on criteria that vary across time, place, and cultures. The context and how a work is presented influence the audience response. Essential Questions: (a) How do musicians improve the quality of their performance? (b) How do context and the manner in which musical work is presented influence audience response?",
+      "grade": "2nd",
+      "standard_title": "MU:Pr6.1.2b",
+      "standard_text": "Perform appropriately for the audience and purpose."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 109,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 6,
+      "anchor_standard_text": "Convey meaning through the presentation of artistic work.\nEnduring Understanding: Musicians judge performance based on criteria that vary across time, place, and cultures. The context and how a work is presented influence the audience response. Essential Questions: (a) How do musicians improve the quality of their performance? (b) How do context and the manner in which musical work is presented influence audience response?",
+      "grade": "3rd",
+      "standard_title": "MU:Pr6.1.3a",
+      "standard_text": "Perform music with expression and technical accuracy."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 110,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 6,
+      "anchor_standard_text": "Convey meaning through the presentation of artistic work.\nEnduring Understanding: Musicians judge performance based on criteria that vary across time, place, and cultures. The context and how a work is presented influence the audience response. Essential Questions: (a) How do musicians improve the quality of their performance? (b) How do context and the manner in which musical work is presented influence audience response?",
+      "grade": "3rd",
+      "standard_title": "MU:Pr6.1.3b",
+      "standard_text": "Perform appropriately for the audience and purpose."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 111,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 6,
+      "anchor_standard_text": "Convey meaning through the presentation of artistic work.\nEnduring Understanding: Musicians judge performance based on criteria that vary across time, place, and cultures. The context and how a work is presented influence the audience response. Essential Questions: (a) How do musicians improve the quality of their performance? (b) How do context and the manner in which musical work is presented influence audience response?",
+      "grade": "4th",
+      "standard_title": "MU:Pr6.1.4a",
+      "standard_text": "Perform music, alone or with others, with expression, technical accuracy, and appropriate interpretation."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 112,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 6,
+      "anchor_standard_text": "Convey meaning through the presentation of artistic work.\nEnduring Understanding: Musicians judge performance based on criteria that vary across time, place, and cultures. The context and how a work is presented influence the audience response. Essential Questions: (a) How do musicians improve the quality of their performance? (b) How do context and the manner in which musical work is presented influence audience response?",
+      "grade": "4th",
+      "standard_title": "MU:Pr6.1.4b",
+      "standard_text": "Demonstrate performance decorum and audience etiquette appropriate for the context, venue, and genre."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 113,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 6,
+      "anchor_standard_text": "Convey meaning through the presentation of artistic work.\nEnduring Understanding: Musicians judge performance based on criteria that vary across time, place, and cultures. The context and how a work is presented influence the audience response. Essential Questions: (a) How do musicians improve the quality of their performance? (b) How do context and the manner in which musical work is presented influence audience response?",
+      "grade": "5th",
+      "standard_title": "MU:Pr6.1.5a",
+      "standard_text": "Perform music, alone or with others, with expression, technical accuracy, and appropriate interpretation."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 114,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 6,
+      "anchor_standard_text": "Convey meaning through the presentation of artistic work.\nEnduring Understanding: Musicians judge performance based on criteria that vary across time, place, and cultures. The context and how a work is presented influence the audience response. Essential Questions: (a) How do musicians improve the quality of their performance? (b) How do context and the manner in which musical work is presented influence audience response?",
+      "grade": "5th",
+      "standard_title": "MU:Pr6.1.5b",
+      "standard_text": "Demonstrate performance decorum and audience etiquette appropriate for the context, venue, genre, and style."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 115,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 6,
+      "anchor_standard_text": "Convey meaning through the presentation of artistic work.\nEnduring Understanding: Musicians judge performance based on criteria that vary across time, place, and cultures. The context and how a work is presented influence the audience response. Essential Questions: (a) How do musicians improve the quality of their performance? (b) How do context and the manner in which musical work is presented influence audience response?",
+      "grade": "6th",
+      "standard_title": "MU:Pr6.1.6a",
+      "standard_text": " Perform the music with technical accuracy to convey the creator’s intent."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 116,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 6,
+      "anchor_standard_text": "Convey meaning through the presentation of artistic work.\nEnduring Understanding: Musicians judge performance based on criteria that vary across time, place, and cultures. The context and how a work is presented influence the audience response. Essential Questions: (a) How do musicians improve the quality of their performance? (b) How do context and the manner in which musical work is presented influence audience response?",
+      "grade": "6th",
+      "standard_title": "MU:Pr6.1.6b",
+      "standard_text": "Demonstrate performance decorum and audience etiquette appropriate for the context, venue, genre, and style."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 117,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 6,
+      "anchor_standard_text": "Convey meaning through the presentation of artistic work.\nEnduring Understanding: Musicians judge performance based on criteria that vary across time, place, and cultures. The context and how a work is presented influence the audience response. Essential Questions: (a) How do musicians improve the quality of their performance? (b) How do context and the manner in which musical work is presented influence audience response?",
+      "grade": "7th",
+      "standard_title": "MU:Pr6.1.7a",
+      "standard_text": "Perform the music with technical accuracy and stylistic expression to convey the creator’s intent."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 118,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 6,
+      "anchor_standard_text": "Convey meaning through the presentation of artistic work.\nEnduring Understanding: Musicians judge performance based on criteria that vary across time, place, and cultures. The context and how a work is presented influence the audience response. Essential Questions: (a) How do musicians improve the quality of their performance? (b) How do context and the manner in which musical work is presented influence audience response?",
+      "grade": "7th",
+      "standard_title": "MU:Pr6.1.7b",
+      "standard_text": " Demonstrate performance decorum (for example, stage presence, attire, behavior) and audience etiquette are appropriate for venue, purpose, and context."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 119,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 6,
+      "anchor_standard_text": "Convey meaning through the presentation of artistic work.\nEnduring Understanding: Musicians judge performance based on criteria that vary across time, place, and cultures. The context and how a work is presented influence the audience response. Essential Questions: (a) How do musicians improve the quality of their performance? (b) How do context and the manner in which musical work is presented influence audience response?",
+      "grade": "8th",
+      "standard_title": "MU:Pr6.1.8a",
+      "standard_text": " Perform the music with technical accuracy, stylistic expression, and culturally authentic practices in music to convey the creator’s intent."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 120,
+    "fields": {
+      "heading": "Performing",
+      "anchor_standard_number": 6,
+      "anchor_standard_text": "Convey meaning through the presentation of artistic work.\nEnduring Understanding: Musicians judge performance based on criteria that vary across time, place, and cultures. The context and how a work is presented influence the audience response. Essential Questions: (a) How do musicians improve the quality of their performance? (b) How do context and the manner in which musical work is presented influence audience response?",
+      "grade": "8th",
+      "standard_title": "MU:Pr6.1.8b",
+      "standard_text": "Demonstrate performance decorum (for example, stage presence, attire, behavior) and audience etiquette appropriate for venue, purpose, context, and style."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 121,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 7,
+      "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+      "grade": "Pre K",
+      "standard_title": "MU:Re7.1.PKa",
+      "standard_text": "With substantial guidance, state personal interests and demonstrate why they prefer some music selections over others."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 122,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 7,
+      "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+      "grade": "Pre K",
+      "standard_title": "MU:Re7.1.PKb",
+      "standard_text": "With substantial guidance, explore musical contrasts in music."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 123,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 7,
+      "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+      "grade": "Kindergarten",
+      "standard_title": "MU:Re7.1.Ka",
+      "standard_text": "With guidance, list personal interests and experiences and demonstrate why they prefer some music selections over others."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 124,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 7,
+      "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+      "grade": "Kindergarten",
+      "standard_title": "MU:Re7.1.Kb",
+      "standard_text": "With guidance, demonstrate how a specific music concept (for example, beat, melodic direction) is used in music."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 125,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 7,
+      "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+      "grade": "1st",
+      "standard_title": "MU:Re7.1.1a",
+      "standard_text": "With limited guidance, identify and demonstrate how personal interests and experiences influence musical selection for specific purposes."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 126,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 7,
+      "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+      "grade": "1st",
+      "standard_title": "MU:Re7.1.1b",
+      "standard_text": "With limited guidance, demonstrate and identify how specific music concepts (for example, beat, pitch) are used in various styles of music for a purpose."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 127,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 7,
+      "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+      "grade": "2nd",
+      "standard_title": "MU:Re7.1.2a",
+      "standard_text": "Explain and demonstrate how personal interests and experiences influence musical selection for specific purposes."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 128,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 7,
+      "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+      "grade": "2nd",
+      "standard_title": "MU:Re7.1.2b",
+      "standard_text": "Describe how specific music concepts are used to support a specific purpose in music."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 129,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 7,
+      "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+      "grade": "3rd",
+      "standard_title": "MU:Re7.1.3a",
+      "standard_text": "Demonstrate and describe how selected music connects to and is influenced by specific interests, experiences, or purposes."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 130,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 7,
+      "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+      "grade": "3rd",
+      "standard_title": "MU:Re7.1.3b",
+      "standard_text": "Demonstrate\nand describe how a response to music can be informed by the structure, the use of the elements of music, and context (for example, personal, social)."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 131,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 7,
+      "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+      "grade": "4th",
+      "standard_title": "MU:Re7.1.4a",
+      "standard_text": "Demonstrate and explain how selected music connects to and is influenced by specific interests, experiences, purposes, or contexts."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 132,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 7,
+      "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+      "grade": "4th",
+      "standard_title": "MU:Re7.1.4b",
+      "standard_text": "Demonstrate and describe how responses to music are informed by the structure, the use of the elements\nof music, and context (for example, social, cultural)."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 133,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 7,
+      "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+      "grade": "5th",
+      "standard_title": "MU:Re7.1.5a",
+      "standard_text": "Demonstrate and explain, citing evidence, how selected music connects to and is influenced by specific interests, experiences, purposes, or contexts."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 134,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 7,
+      "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+      "grade": "5th",
+      "standard_title": "MU:Re7.1.5b",
+      "standard_text": "Demonstrate and describe, citing evidence, how responses to music are informed by the structure, the\nuse of the elements of music, and context (for example, social, cultural, historical)."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 135,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 7,
+      "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+      "grade": "6th",
+      "standard_title": "MU:Re7.1.6a",
+      "standard_text": "Select or choose music to listen to and explain the connections to specific interests\nor experiences for a specific purpose."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 136,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 7,
+      "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+      "grade": "6th",
+      "standard_title": "MU:Re7.1.6b",
+      "standard_text": "Describe how the elements of music and expressive qualities relate to the structure of the pieces."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 137,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 7,
+      "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+      "grade": "6th",
+      "standard_title": "MU:Re7.1.6c",
+      "standard_text": "Identify the context of music from a variety of genres, cultures, and historical periods."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 138,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 7,
+      "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+      "grade": "7th",
+      "standard_title": "MU:Re7.1.7a",
+      "standard_text": "Identify reasons\nfor selecting music based on musical characteristics, interest, purpose, or context."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 139,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 7,
+      "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+      "grade": "7th",
+      "standard_title": "MU:Re7.1.7b",
+      "standard_text": "Describe how knowledge of context and the use of musical elements inform the response to music."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 140,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 7,
+      "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+      "grade": "7th",
+      "standard_title": "MU:Re7.1.7c",
+      "standard_text": "Identify and compare the context of music from a variety of genres, cultures, and historical periods."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 141,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 7,
+      "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+      "grade": "8th",
+      "standard_title": "MU:Re7.1.8a",
+      "standard_text": "Explain reasons\nfor selecting music based on musical characteristics, interest, purpose or context."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 142,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 7,
+      "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+      "grade": "8th",
+      "standard_title": "MU:Re7.1.8b",
+      "standard_text": "Describe how understanding context and the elements\nof music inform the response to music."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 143,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 7,
+      "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+      "grade": "8th",
+      "standard_title": "MU:Re7.1.8c",
+      "standard_text": "Identify and compare the context of programs of music from a variety of genres, cultures, and historical periods."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 144,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 8,
+      "anchor_standard_text": "Construct meaningful interpretations of artistic work.\nEnduring Understanding: Through their use of elements and structures of music, creators and performers provide clues to their expressive intent. Essential Question: How do we discern the musical performers’ emotions, thoughts, and ideas?",
+      "grade": "Pre K",
+      "standard_title": "MU:Re8.1.PKa",
+      "standard_text": "With substantial guidance, explore music’s expressive qualities (for example, dynamics, tempo)."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 145,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 8,
+      "anchor_standard_text": "Construct meaningful interpretations of artistic work.\nEnduring Understanding: Through their use of elements and structures of music, creators and performers provide clues to their expressive intent. Essential Question: How do we discern the musical performers’ emotions, thoughts, and ideas?",
+      "grade": "Kindergarten",
+      "standard_title": "MU:Re8.1.Ka",
+      "standard_text": "With guidance, demonstrate awareness of expressive qualities (for example, dynamics, tempo) that reflect performers’ expressive intent."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 146,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 8,
+      "anchor_standard_text": "Construct meaningful interpretations of artistic work.\nEnduring Understanding: Through their use of elements and structures of music, creators and performers provide clues to their expressive intent. Essential Question: How do we discern the musical performers’ emotions, thoughts, and ideas?",
+      "grade": "1st",
+      "standard_title": "MU:Re8.1.1a",
+      "standard_text": "With limited guidance, demonstrate and identify expressive qualities (for example, dynamics, tempo) that reflect performers’ expressive intent."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 147,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 8,
+      "anchor_standard_text": "Construct meaningful interpretations of artistic work.\nEnduring Understanding: Through their use of elements and structures of music, creators and performers provide clues to their expressive intent. Essential Question: How do we discern the musical performers’ emotions, thoughts, and ideas?",
+      "grade": "2nd",
+      "standard_title": "MU:Re8.1.2a",
+      "standard_text": "Demonstrate knowledge of music concepts and how they support performers’ expressive intent."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 148,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 8,
+      "anchor_standard_text": "Construct meaningful interpretations of artistic work.\nEnduring Understanding: Through their use of elements and structures of music, creators and performers provide clues to their expressive intent. Essential Question: How do we discern the musical performers’ emotions, thoughts, and ideas?",
+      "grade": "3rd",
+      "standard_title": "MU:Re8.1.3a",
+      "standard_text": "Demonstrate and describe how the expressive qualities\n(for example,\ndynamics, tempo) are used in performers’ interpretations to reflect expressive intent."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 149,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 8,
+      "anchor_standard_text": "Construct meaningful interpretations of artistic work.\nEnduring Understanding: Through their use of elements and structures of music, creators and performers provide clues to their expressive intent. Essential Question: How do we discern the musical performers’ emotions, thoughts, and ideas?",
+      "grade": "4th",
+      "standard_title": "MU:Re8.1.4a",
+      "standard_text": "Demonstrate and explain how the expressive qualities (for example, dynamics, tempo, timbre) are used in performers’ and personal interpretations to reflect expressive intent."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 150,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 8,
+      "anchor_standard_text": "Construct meaningful interpretations of artistic work.\nEnduring Understanding: Through their use of elements and structures of music, creators and performers provide clues to their expressive intent. Essential Question: How do we discern the musical performers’ emotions, thoughts, and ideas?",
+      "grade": "5th",
+      "standard_title": "MU:Re8.1.5a",
+      "standard_text": "Demonstrate and explain how the expressive qualities are used in performers’ and personal interpretations to reflect expressive intent."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 151,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 8,
+      "anchor_standard_text": "Construct meaningful interpretations of artistic work.\nEnduring Understanding: Through their use of elements and structures of music, creators and performers provide clues to their expressive intent. Essential Question: How do we discern the musical performers’ emotions, thoughts, and ideas?",
+      "grade": "6th",
+      "standard_title": "MU:Re8.1.6a",
+      "standard_text": "Describe a personal interpretation of how performers’ application of the elements of music and expressive qualities, within genres and cultural and historical context, convey expressive intent."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 152,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 8,
+      "anchor_standard_text": "Construct meaningful interpretations of artistic work.\nEnduring Understanding: Through their use of elements and structures of music, creators and performers provide clues to their expressive intent. Essential Question: How do we discern the musical performers’ emotions, thoughts, and ideas?",
+      "grade": "7th",
+      "standard_title": "MU:Re8.1.7a",
+      "standard_text": "Identify the meaning of musical selections, referring to the elements of music and context."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 153,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 8,
+      "anchor_standard_text": "Construct meaningful interpretations of artistic work.\nEnduring Understanding: Through their use of elements and structures of music, creators and performers provide clues to their expressive intent. Essential Question: How do we discern the musical performers’ emotions, thoughts, and ideas?",
+      "grade": "8th",
+      "standard_title": "MU:Re8.1.8a",
+      "standard_text": "Identify and support the meaning of musical works, citing as evidence the musical elements and context."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 154,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 9,
+      "anchor_standard_text": "Apply criteria to evaluate artistic work.\nEnduring Understanding: The personal evaluation of musical work(s) and performance(s) is informed by analysis, interpretation, and teacher- or student- established criteria. Essential Question: How do we judge the quality of musical work(s) and performance(s)?",
+      "grade": "Pre K",
+      "standard_title": "MU:Re9.1.PKa",
+      "standard_text": "With substantial guidance, talk about personal and expressive preferences in music."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 155,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 9,
+      "anchor_standard_text": "Apply criteria to evaluate artistic work.\nEnduring Understanding: The personal evaluation of musical work(s) and performance(s) is informed by analysis, interpretation, and teacher- or student- established criteria. Essential Question: How do we judge the quality of musical work(s) and performance(s)?",
+      "grade": "Kindergarten",
+      "standard_title": "MU:Re9.1.Ka",
+      "standard_text": "With guidance, apply personal and expressive preferences in the evaluation of music."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 156,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 9,
+      "anchor_standard_text": "Apply criteria to evaluate artistic work.\nEnduring Understanding: The personal evaluation of musical work(s) and performance(s) is informed by analysis, interpretation, and teacher- or student- established criteria. Essential Question: How do we judge the quality of musical work(s) and performance(s)?",
+      "grade": "1st",
+      "standard_title": "MU:Re9.1.1a",
+      "standard_text": "With limited guidance, apply personal and expressive preferences in the evaluation of music for specific purposes."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 157,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 9,
+      "anchor_standard_text": "Apply criteria to evaluate artistic work.\nEnduring Understanding: The personal evaluation of musical work(s) and performance(s) is informed by analysis, interpretation, and teacher- or student- established criteria. Essential Question: How do we judge the quality of musical work(s) and performance(s)?",
+      "grade": "2nd",
+      "standard_title": "MU:Re9.1.2a",
+      "standard_text": "Apply personal and expressive preferences in the evaluation of music for specific purposes."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 158,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 9,
+      "anchor_standard_text": "Apply criteria to evaluate artistic work.\nEnduring Understanding: The personal evaluation of musical work(s) and performance(s) is informed by analysis, interpretation, and teacher- or student- established criteria. Essential Question: How do we judge the quality of musical work(s) and performance(s)?",
+      "grade": "3rd",
+      "standard_title": "MU:Re9.1.3a",
+      "standard_text": "Evaluate musical works and performances, applying established criteria, and describe appropriateness to the context."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 159,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 9,
+      "anchor_standard_text": "Apply criteria to evaluate artistic work.\nEnduring Understanding: The personal evaluation of musical work(s) and performance(s) is informed by analysis, interpretation, and teacher- or student- established criteria. Essential Question: How do we judge the quality of musical work(s) and performance(s)?",
+      "grade": "4th",
+      "standard_title": "MU:Re9.1.4a",
+      "standard_text": "Evaluate musical works and performances, applying established criteria, and explain appropriateness to the context."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 160,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 9,
+      "anchor_standard_text": "Apply criteria to evaluate artistic work.\nEnduring Understanding: The personal evaluation of musical work(s) and performance(s) is informed by analysis, interpretation, and teacher- or student- established criteria. Essential Question: How do we judge the quality of musical work(s) and performance(s)?",
+      "grade": "5th",
+      "standard_title": "MU:Re9.1.5a",
+      "standard_text": "Evaluate musical works and performances, applying established criteria, and explain appropriateness to the context, citing evidence from the elements of music."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 161,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 9,
+      "anchor_standard_text": "Apply criteria to evaluate artistic work.\nEnduring Understanding: The personal evaluation of musical work(s) and performance(s) is informed by analysis, interpretation, and teacher- or student- established criteria. Essential Question: How do we judge the quality of musical work(s) and performance(s)?",
+      "grade": "6th",
+      "standard_title": "MU:Re9.1.6a",
+      "standard_text": "Apply teacher-provided criteria to evaluate musical works or performances."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 162,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 9,
+      "anchor_standard_text": "Apply criteria to evaluate artistic work.\nEnduring Understanding: The personal evaluation of musical work(s) and performance(s) is informed by analysis, interpretation, and teacher- or student- established criteria. Essential Question: How do we judge the quality of musical work(s) and performance(s)?",
+      "grade": "7th",
+      "standard_title": "MU:Re9.1.7a",
+      "standard_text": "Identify and describe the effect of interest, experience, analysis, and context on the evaluation of music."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 163,
+    "fields": {
+      "heading": "Responding",
+      "anchor_standard_number": 9,
+      "anchor_standard_text": "Apply criteria to evaluate artistic work.\nEnduring Understanding: The personal evaluation of musical work(s) and performance(s) is informed by analysis, interpretation, and teacher- or student- established criteria. Essential Question: How do we judge the quality of musical work(s) and performance(s)?",
+      "grade": "8th",
+      "standard_title": "MU:Re9.1.8a",
+      "standard_text": "Explain the influence of experiences, analysis, and context on interest in and evaluation of music."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 164,
+    "fields": {
+      "heading": "Connecting",
+      "anchor_standard_number": 10,
+      "anchor_standard_text": "Synthesize and relate knowledge and personal experiences to make art.\nEnduring Understanding: Musicians connect their personal interests, experiences, ideas, and knowledge to creating, performing, and responding. Essential Question: How do musicians make meaningful connections to creating, performing, and responding?",
+      "grade": "Pre K",
+      "standard_title": "MU:Cn10.1.PKa",
+      "standard_text": "Demonstrate how interests, knowledge, and skills relate to personal choices and intent when creating, performing, and responding to music as developmentally appropriate."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 165,
+    "fields": {
+      "heading": "Connecting",
+      "anchor_standard_number": 10,
+      "anchor_standard_text": "Synthesize and relate knowledge and personal experiences to make art.\nEnduring Understanding: Musicians connect their personal interests, experiences, ideas, and knowledge to creating, performing, and responding. Essential Question: How do musicians make meaningful connections to creating, performing, and responding?",
+      "grade": "Kindergarten",
+      "standard_title": "MU:Cn10.1.Ka",
+      "standard_text": "Demonstrate how interests, knowledge, and skills relate to personal choices and intent when creating, performing, and responding to music as developmentally appropriate."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 166,
+    "fields": {
+      "heading": "Connecting",
+      "anchor_standard_number": 10,
+      "anchor_standard_text": "Synthesize and relate knowledge and personal experiences to make art.\nEnduring Understanding: Musicians connect their personal interests, experiences, ideas, and knowledge to creating, performing, and responding. Essential Question: How do musicians make meaningful connections to creating, performing, and responding?",
+      "grade": "1st",
+      "standard_title": "MU:Cn10.1.1a",
+      "standard_text": "Demonstrate how interests, knowledge, and skills relate to personal choices and intent when creating, performing, and responding to music as developmentally appropriate."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 167,
+    "fields": {
+      "heading": "Connecting",
+      "anchor_standard_number": 10,
+      "anchor_standard_text": "Synthesize and relate knowledge and personal experiences to make art.\nEnduring Understanding: Musicians connect their personal interests, experiences, ideas, and knowledge to creating, performing, and responding. Essential Question: How do musicians make meaningful connections to creating, performing, and responding?",
+      "grade": "2nd",
+      "standard_title": "MU:Cn10.1.2a",
+      "standard_text": "Demonstrate how interests, knowledge, and skills relate to personal choices and intent when creating, performing, and responding to music as developmentally appropriate."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 168,
+    "fields": {
+      "heading": "Connecting",
+      "anchor_standard_number": 10,
+      "anchor_standard_text": "Synthesize and relate knowledge and personal experiences to make art.\nEnduring Understanding: Musicians connect their personal interests, experiences, ideas, and knowledge to creating, performing, and responding. Essential Question: How do musicians make meaningful connections to creating, performing, and responding?",
+      "grade": "3rd",
+      "standard_title": "MU:Cn10.1.3a",
+      "standard_text": "Demonstrate how interests, knowledge, and skills relate to personal choices and intent when creating, performing, and responding to music as developmentally appropriate."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 169,
+    "fields": {
+      "heading": "Connecting",
+      "anchor_standard_number": 10,
+      "anchor_standard_text": "Synthesize and relate knowledge and personal experiences to make art.\nEnduring Understanding: Musicians connect their personal interests, experiences, ideas, and knowledge to creating, performing, and responding. Essential Question: How do musicians make meaningful connections to creating, performing, and responding?",
+      "grade": "4th",
+      "standard_title": "MU:Cn10.1.4a",
+      "standard_text": "Demonstrate how interests, knowledge, and skills relate to personal choices and intent when creating, performing, and responding to music as developmentally appropriate."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 170,
+    "fields": {
+      "heading": "Connecting",
+      "anchor_standard_number": 10,
+      "anchor_standard_text": "Synthesize and relate knowledge and personal experiences to make art.\nEnduring Understanding: Musicians connect their personal interests, experiences, ideas, and knowledge to creating, performing, and responding. Essential Question: How do musicians make meaningful connections to creating, performing, and responding?",
+      "grade": "5th",
+      "standard_title": "MU:Cn10.1.5a",
+      "standard_text": "Demonstrate how interests, knowledge, and skills relate to personal choices and intent when creating, performing, and responding to music as developmentally appropriate."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 171,
+    "fields": {
+      "heading": "Connecting",
+      "anchor_standard_number": 10,
+      "anchor_standard_text": "Synthesize and relate knowledge and personal experiences to make art.\nEnduring Understanding: Musicians connect their personal interests, experiences, ideas, and knowledge to creating, performing, and responding. Essential Question: How do musicians make meaningful connections to creating, performing, and responding?",
+      "grade": "6th",
+      "standard_title": "MU:Cn10.1.6a",
+      "standard_text": "Demonstrate how interests, knowledge, and skills relate to personal choices and intent when creating, performing, and responding to music as developmentally appropriate."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 172,
+    "fields": {
+      "heading": "Connecting",
+      "anchor_standard_number": 10,
+      "anchor_standard_text": "Synthesize and relate knowledge and personal experiences to make art.\nEnduring Understanding: Musicians connect their personal interests, experiences, ideas, and knowledge to creating, performing, and responding. Essential Question: How do musicians make meaningful connections to creating, performing, and responding?",
+      "grade": "7th",
+      "standard_title": "MU:Cn10.1.7a",
+      "standard_text": "Demonstrate how interests, knowledge, and skills relate to personal choices and intent when creating, performing, and responding to music as developmentally appropriate."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 173,
+    "fields": {
+      "heading": "Connecting",
+      "anchor_standard_number": 10,
+      "anchor_standard_text": "Synthesize and relate knowledge and personal experiences to make art.\nEnduring Understanding: Musicians connect their personal interests, experiences, ideas, and knowledge to creating, performing, and responding. Essential Question: How do musicians make meaningful connections to creating, performing, and responding?",
+      "grade": "8th",
+      "standard_title": "MU:Cn10.1.8a",
+      "standard_text": "Demonstrate how interests, knowledge, and skills relate to personal choices and intent when creating, performing, and responding to music as developmentally appropriate."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 174,
+    "fields": {
+      "heading": "Connecting",
+      "anchor_standard_number": 11,
+      "anchor_standard_text": "Relate artistic ideas and works with societal, cultural, and historical context to deepen understanding\nEnduring Understanding: Understanding connections to varied contexts and daily life enhances musicians’ creating, performing, and responding. Essential Question: How do the other arts, other disciplines, contexts, and daily life inform creating, performing, and responding to music?",
+      "grade": "Pre K",
+      "standard_title": "MU:Cn11.1.PKa",
+      "standard_text": "Demonstrate understanding\nof relationships between music and the other arts, other disciplines, varied contexts, and daily life as developmentally appropriate."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 175,
+    "fields": {
+      "heading": "Connecting",
+      "anchor_standard_number": 11,
+      "anchor_standard_text": "Relate artistic ideas and works with societal, cultural, and historical context to deepen understanding\nEnduring Understanding: Understanding connections to varied contexts and daily life enhances musicians’ creating, performing, and responding. Essential Question: How do the other arts, other disciplines, contexts, and daily life inform creating, performing, and responding to music?",
+      "grade": "Kindergarten",
+      "standard_title": "MU:Cn11.1.Ka",
+      "standard_text": "Demonstrate understanding\nof relationships between music and the other arts, other disciplines, varied contexts, and daily life as developmentally appropriate."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 176,
+    "fields": {
+      "heading": "Connecting",
+      "anchor_standard_number": 11,
+      "anchor_standard_text": "Relate artistic ideas and works with societal, cultural, and historical context to deepen understanding\nEnduring Understanding: Understanding connections to varied contexts and daily life enhances musicians’ creating, performing, and responding. Essential Question: How do the other arts, other disciplines, contexts, and daily life inform creating, performing, and responding to music?",
+      "grade": "1st",
+      "standard_title": "MU:Cn11.1.1a",
+      "standard_text": "Demonstrate understanding\nof relationships between music and the other arts, other disciplines, varied contexts, and daily life as developmentally appropriate."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 177,
+    "fields": {
+      "heading": "Connecting",
+      "anchor_standard_number": 11,
+      "anchor_standard_text": "Relate artistic ideas and works with societal, cultural, and historical context to deepen understanding\nEnduring Understanding: Understanding connections to varied contexts and daily life enhances musicians’ creating, performing, and responding. Essential Question: How do the other arts, other disciplines, contexts, and daily life inform creating, performing, and responding to music?",
+      "grade": "2nd",
+      "standard_title": "MU:Cn11.1.2a",
+      "standard_text": "Demonstrate understanding\nof relationships between music and the other arts, other disciplines, varied contexts, and daily life as developmentally appropriate."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 178,
+    "fields": {
+      "heading": "Connecting",
+      "anchor_standard_number": 11,
+      "anchor_standard_text": "Relate artistic ideas and works with societal, cultural, and historical context to deepen understanding\nEnduring Understanding: Understanding connections to varied contexts and daily life enhances musicians’ creating, performing, and responding. Essential Question: How do the other arts, other disciplines, contexts, and daily life inform creating, performing, and responding to music?",
+      "grade": "3rd",
+      "standard_title": "MU:Cn11.1.3a",
+      "standard_text": "Demonstrate understanding\nof relationships between music and the other arts, other disciplines, varied contexts, and daily life as developmentally appropriate."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 179,
+    "fields": {
+      "heading": "Connecting",
+      "anchor_standard_number": 11,
+      "anchor_standard_text": "Relate artistic ideas and works with societal, cultural, and historical context to deepen understanding\nEnduring Understanding: Understanding connections to varied contexts and daily life enhances musicians’ creating, performing, and responding. Essential Question: How do the other arts, other disciplines, contexts, and daily life inform creating, performing, and responding to music?",
+      "grade": "4th",
+      "standard_title": "MU:Cn11.1.4a",
+      "standard_text": "Demonstrate understanding\nof relationships between music and the other arts, other disciplines, varied contexts, and daily life as developmentally appropriate."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 180,
+    "fields": {
+      "heading": "Connecting",
+      "anchor_standard_number": 11,
+      "anchor_standard_text": "Relate artistic ideas and works with societal, cultural, and historical context to deepen understanding\nEnduring Understanding: Understanding connections to varied contexts and daily life enhances musicians’ creating, performing, and responding. Essential Question: How do the other arts, other disciplines, contexts, and daily life inform creating, performing, and responding to music?",
+      "grade": "5th",
+      "standard_title": "MU:Cn11.1.5a",
+      "standard_text": "Demonstrate understanding\nof relationships between music and the other arts, other disciplines, varied contexts, and daily life as developmentally appropriate."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 181,
+    "fields": {
+      "heading": "Connecting",
+      "anchor_standard_number": 11,
+      "anchor_standard_text": "Relate artistic ideas and works with societal, cultural, and historical context to deepen understanding\nEnduring Understanding: Understanding connections to varied contexts and daily life enhances musicians’ creating, performing, and responding. Essential Question: How do the other arts, other disciplines, contexts, and daily life inform creating, performing, and responding to music?",
+      "grade": "6th",
+      "standard_title": "MU:Cn11.1.6a",
+      "standard_text": "Demonstrate understanding\nof relationships between music and the other arts, other disciplines, varied contexts, and daily life as developmentally appropriate."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 182,
+    "fields": {
+      "heading": "Connecting",
+      "anchor_standard_number": 11,
+      "anchor_standard_text": "Relate artistic ideas and works with societal, cultural, and historical context to deepen understanding\nEnduring Understanding: Understanding connections to varied contexts and daily life enhances musicians’ creating, performing, and responding. Essential Question: How do the other arts, other disciplines, contexts, and daily life inform creating, performing, and responding to music?",
+      "grade": "7th",
+      "standard_title": "MU:Cn11.1.7a",
+      "standard_text": "Demonstrate understanding\nof relationships between music and the other arts, other disciplines, varied contexts, and daily life as developmentally appropriate."
+    }
+  },
+  {
+    "model": "crafting_core_lessons.standard",
+    "pk": 183,
+    "fields": {
+      "heading": "Connecting",
+      "anchor_standard_number": 11,
+      "anchor_standard_text": "Relate artistic ideas and works with societal, cultural, and historical context to deepen understanding\nEnduring Understanding: Understanding connections to varied contexts and daily life enhances musicians’ creating, performing, and responding. Essential Question: How do the other arts, other disciplines, contexts, and daily life inform creating, performing, and responding to music?",
+      "grade": "8th",
+      "standard_title": "MU:Cn11.1.8a",
+      "standard_text": "Demonstrate understanding\nof relationships between music and the other arts, other disciplines, varied contexts, and daily life as developmentally appropriate."
+    }
+  }
+]
