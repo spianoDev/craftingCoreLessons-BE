@@ -950,5 +950,509 @@
     "grade": "8th",
     "standard_title": "MU:Pr6.1.8b",
     "standard_text": "Demonstrate performance decorum (for example, stage presence, attire, behavior) and audience etiquette appropriate for venue, purpose, context, and style."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 7,
+    "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+    "grade": "Pre K",
+    "standard_title": "MU:Re7.1.PKa",
+    "standard_text": "With substantial guidance, state personal interests and demonstrate why they prefer some music selections over others."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 7,
+    "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+    "grade": "Pre K",
+    "standard_title": "MU:Re7.1.PKb",
+    "standard_text": "With substantial guidance, explore musical contrasts in music."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 7,
+    "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+    "grade": "Kindergarten",
+    "standard_title": "MU:Re7.1.Ka",
+    "standard_text": "With guidance, list personal interests and experiences and demonstrate why they prefer some music selections over others."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 7,
+    "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+    "grade": "Kindergarten",
+    "standard_title": "MU:Re7.1.Kb",
+    "standard_text": "With guidance, demonstrate how a specific music concept (for example, beat, melodic direction) is used in music."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 7,
+    "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+    "grade": "1st",
+    "standard_title": "MU:Re7.1.1a",
+    "standard_text": "With limited guidance, identify and demonstrate how personal interests and experiences influence musical selection for specific purposes."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 7,
+    "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+    "grade": "1st",
+    "standard_title": "MU:Re7.1.1b",
+    "standard_text": "With limited guidance, demonstrate and identify how specific music concepts (for example, beat, pitch) are used in various styles of music for a purpose."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 7,
+    "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+    "grade": "2nd",
+    "standard_title": "MU:Re7.1.2a",
+    "standard_text": "Explain and demonstrate how personal interests and experiences influence musical selection for specific purposes."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 7,
+    "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+    "grade": "2nd",
+    "standard_title": "MU:Re7.1.2b",
+    "standard_text": "Describe how specific music concepts are used to support a specific purpose in music."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 7,
+    "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+    "grade": "3rd",
+    "standard_title": "MU:Re7.1.3a",
+    "standard_text": "Demonstrate and describe how selected music connects to and is influenced by specific interests, experiences, or purposes."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 7,
+    "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+    "grade": "3rd",
+    "standard_title": "MU:Re7.1.3b",
+    "standard_text": "Demonstrate\nand describe how a response to music can be informed by the structure, the use of the elements of music, and context (for example, personal, social)."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 7,
+    "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+    "grade": "4th",
+    "standard_title": "MU:Re7.1.4a",
+    "standard_text": "Demonstrate and explain how selected music connects to and is influenced by specific interests, experiences, purposes, or contexts."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 7,
+    "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+    "grade": "4th",
+    "standard_title": "MU:Re7.1.4b",
+    "standard_text": "Demonstrate and describe how responses to music are informed by the structure, the use of the elements\nof music, and context (for example, social, cultural)."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 7,
+    "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+    "grade": "5th",
+    "standard_title": "MU:Re7.1.5a",
+    "standard_text": "Demonstrate and explain, citing evidence, how selected music connects to and is influenced by specific interests, experiences, purposes, or contexts."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 7,
+    "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+    "grade": "5th",
+    "standard_title": "MU:Re7.1.5b",
+    "standard_text": "Demonstrate and describe, citing evidence, how responses to music are informed by the structure, the\nuse of the elements of music, and context (for example, social, cultural, historical)."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 7,
+    "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+    "grade": "6th",
+    "standard_title": "MU:Re7.1.6a",
+    "standard_text": "Select or choose music to listen to and explain the connections to specific interests\nor experiences for a specific purpose."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 7,
+    "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+    "grade": "6th",
+    "standard_title": "MU:Re7.1.6b",
+    "standard_text": "Describe how the elements of music and expressive qualities relate to the structure of the pieces."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 7,
+    "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+    "grade": "6th",
+    "standard_title": "MU:Re7.1.6c",
+    "standard_text": "Identify the context of music from a variety of genres, cultures, and historical periods."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 7,
+    "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+    "grade": "7th",
+    "standard_title": "MU:Re7.1.7a",
+    "standard_text": "Identify reasons\nfor selecting music based on musical characteristics, interest, purpose, or context."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 7,
+    "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+    "grade": "7th",
+    "standard_title": "MU:Re7.1.7b",
+    "standard_text": "Describe how knowledge of context and the use of musical elements inform the response to music."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 7,
+    "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+    "grade": "7th",
+    "standard_title": "MU:Re7.1.7c",
+    "standard_text": "Identify and compare the context of music from a variety of genres, cultures, and historical periods."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 7,
+    "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+    "grade": "8th",
+    "standard_title": "MU:Re7.1.8a",
+    "standard_text": "Explain reasons\nfor selecting music based on musical characteristics, interest, purpose or context."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 7,
+    "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+    "grade": "8th",
+    "standard_title": "MU:Re7.1.8b",
+    "standard_text": "Describe how understanding context and the elements\nof music inform the response to music."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 7,
+    "anchor_standard_text": "Perceive and analyze artistic work.\nEnduring Understanding: Individuals choose music based on their interests, experiences, musical understanding, and each musical works’ purpose. Essential Question: How do individuals choose music to experience?",
+    "grade": "8th",
+    "standard_title": "MU:Re7.1.8c",
+    "standard_text": "Identify and compare the context of programs of music from a variety of genres, cultures, and historical periods."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 8,
+    "anchor_standard_text": "Construct meaningful interpretations of artistic work.\nEnduring Understanding: Through their use of elements and structures of music, creators and performers provide clues to their expressive intent. Essential Question: How do we discern the musical performers’ emotions, thoughts, and ideas?",
+    "grade": "Pre K",
+    "standard_title": "MU:Re8.1.PKa",
+    "standard_text": "With substantial guidance, explore music’s expressive qualities (for example, dynamics, tempo)."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 8,
+    "anchor_standard_text": "Construct meaningful interpretations of artistic work.\nEnduring Understanding: Through their use of elements and structures of music, creators and performers provide clues to their expressive intent. Essential Question: How do we discern the musical performers’ emotions, thoughts, and ideas?",
+    "grade": "Kindergarten",
+    "standard_title": "MU:Re8.1.Ka",
+    "standard_text": "With guidance, demonstrate awareness of expressive qualities (for example, dynamics, tempo) that reflect performers’ expressive intent."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 8,
+    "anchor_standard_text": "Construct meaningful interpretations of artistic work.\nEnduring Understanding: Through their use of elements and structures of music, creators and performers provide clues to their expressive intent. Essential Question: How do we discern the musical performers’ emotions, thoughts, and ideas?",
+    "grade": "1st",
+    "standard_title": "MU:Re8.1.1a",
+    "standard_text": "With limited guidance, demonstrate and identify expressive qualities (for example, dynamics, tempo) that reflect performers’ expressive intent."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 8,
+    "anchor_standard_text": "Construct meaningful interpretations of artistic work.\nEnduring Understanding: Through their use of elements and structures of music, creators and performers provide clues to their expressive intent. Essential Question: How do we discern the musical performers’ emotions, thoughts, and ideas?",
+    "grade": "2nd",
+    "standard_title": "MU:Re8.1.2a",
+    "standard_text": "Demonstrate knowledge of music concepts and how they support performers’ expressive intent."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 8,
+    "anchor_standard_text": "Construct meaningful interpretations of artistic work.\nEnduring Understanding: Through their use of elements and structures of music, creators and performers provide clues to their expressive intent. Essential Question: How do we discern the musical performers’ emotions, thoughts, and ideas?",
+    "grade": "3rd",
+    "standard_title": "MU:Re8.1.3a",
+    "standard_text": "Demonstrate and describe how the expressive qualities\n(for example,\ndynamics, tempo) are used in performers’ interpretations to reflect expressive intent."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 8,
+    "anchor_standard_text": "Construct meaningful interpretations of artistic work.\nEnduring Understanding: Through their use of elements and structures of music, creators and performers provide clues to their expressive intent. Essential Question: How do we discern the musical performers’ emotions, thoughts, and ideas?",
+    "grade": "4th",
+    "standard_title": "MU:Re8.1.4a",
+    "standard_text": "Demonstrate and explain how the expressive qualities (for example, dynamics, tempo, timbre) are used in performers’ and personal interpretations to reflect expressive intent."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 8,
+    "anchor_standard_text": "Construct meaningful interpretations of artistic work.\nEnduring Understanding: Through their use of elements and structures of music, creators and performers provide clues to their expressive intent. Essential Question: How do we discern the musical performers’ emotions, thoughts, and ideas?",
+    "grade": "5th",
+    "standard_title": "MU:Re8.1.5a",
+    "standard_text": "Demonstrate and explain how the expressive qualities are used in performers’ and personal interpretations to reflect expressive intent."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 8,
+    "anchor_standard_text": "Construct meaningful interpretations of artistic work.\nEnduring Understanding: Through their use of elements and structures of music, creators and performers provide clues to their expressive intent. Essential Question: How do we discern the musical performers’ emotions, thoughts, and ideas?",
+    "grade": "6th",
+    "standard_title": "MU:Re8.1.6a",
+    "standard_text": "Describe a personal interpretation of how performers’ application of the elements of music and expressive qualities, within genres and cultural and historical context, convey expressive intent."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 8,
+    "anchor_standard_text": "Construct meaningful interpretations of artistic work.\nEnduring Understanding: Through their use of elements and structures of music, creators and performers provide clues to their expressive intent. Essential Question: How do we discern the musical performers’ emotions, thoughts, and ideas?",
+    "grade": "7th",
+    "standard_title": "MU:Re8.1.7a",
+    "standard_text": "Identify the meaning of musical selections, referring to the elements of music and context."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 8,
+    "anchor_standard_text": "Construct meaningful interpretations of artistic work.\nEnduring Understanding: Through their use of elements and structures of music, creators and performers provide clues to their expressive intent. Essential Question: How do we discern the musical performers’ emotions, thoughts, and ideas?",
+    "grade": "8th",
+    "standard_title": "MU:Re8.1.8a",
+    "standard_text": "Identify and support the meaning of musical works, citing as evidence the musical elements and context."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 9,
+    "anchor_standard_text": "Apply criteria to evaluate artistic work.\nEnduring Understanding: The personal evaluation of musical work(s) and performance(s) is informed by analysis, interpretation, and teacher- or student- established criteria. Essential Question: How do we judge the quality of musical work(s) and performance(s)?",
+    "grade": "Pre K",
+    "standard_title": "MU:Re9.1.PKa",
+    "standard_text": "With substantial guidance, talk about personal and expressive preferences in music."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 9,
+    "anchor_standard_text": "Apply criteria to evaluate artistic work.\nEnduring Understanding: The personal evaluation of musical work(s) and performance(s) is informed by analysis, interpretation, and teacher- or student- established criteria. Essential Question: How do we judge the quality of musical work(s) and performance(s)?",
+    "grade": "Kindergarten",
+    "standard_title": "MU:Re9.1.Ka",
+    "standard_text": "With guidance, apply personal and expressive preferences in the evaluation of music."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 9,
+    "anchor_standard_text": "Apply criteria to evaluate artistic work.\nEnduring Understanding: The personal evaluation of musical work(s) and performance(s) is informed by analysis, interpretation, and teacher- or student- established criteria. Essential Question: How do we judge the quality of musical work(s) and performance(s)?",
+    "grade": "1st",
+    "standard_title": "MU:Re9.1.1a",
+    "standard_text": "With limited guidance, apply personal and expressive preferences in the evaluation of music for specific purposes."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 9,
+    "anchor_standard_text": "Apply criteria to evaluate artistic work.\nEnduring Understanding: The personal evaluation of musical work(s) and performance(s) is informed by analysis, interpretation, and teacher- or student- established criteria. Essential Question: How do we judge the quality of musical work(s) and performance(s)?",
+    "grade": "2nd",
+    "standard_title": "MU:Re9.1.2a",
+    "standard_text": "Apply personal and expressive preferences in the evaluation of music for specific purposes."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 9,
+    "anchor_standard_text": "Apply criteria to evaluate artistic work.\nEnduring Understanding: The personal evaluation of musical work(s) and performance(s) is informed by analysis, interpretation, and teacher- or student- established criteria. Essential Question: How do we judge the quality of musical work(s) and performance(s)?",
+    "grade": "3rd",
+    "standard_title": "MU:Re9.1.3a",
+    "standard_text": "Evaluate musical works and performances, applying established criteria, and describe appropriateness to the context."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 9,
+    "anchor_standard_text": "Apply criteria to evaluate artistic work.\nEnduring Understanding: The personal evaluation of musical work(s) and performance(s) is informed by analysis, interpretation, and teacher- or student- established criteria. Essential Question: How do we judge the quality of musical work(s) and performance(s)?",
+    "grade": "4th",
+    "standard_title": "MU:Re9.1.4a",
+    "standard_text": "Evaluate musical works and performances, applying established criteria, and explain appropriateness to the context."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 9,
+    "anchor_standard_text": "Apply criteria to evaluate artistic work.\nEnduring Understanding: The personal evaluation of musical work(s) and performance(s) is informed by analysis, interpretation, and teacher- or student- established criteria. Essential Question: How do we judge the quality of musical work(s) and performance(s)?",
+    "grade": "5th",
+    "standard_title": "MU:Re9.1.5a",
+    "standard_text": "Evaluate musical works and performances, applying established criteria, and explain appropriateness to the context, citing evidence from the elements of music."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 9,
+    "anchor_standard_text": "Apply criteria to evaluate artistic work.\nEnduring Understanding: The personal evaluation of musical work(s) and performance(s) is informed by analysis, interpretation, and teacher- or student- established criteria. Essential Question: How do we judge the quality of musical work(s) and performance(s)?",
+    "grade": "6th",
+    "standard_title": "MU:Re9.1.6a",
+    "standard_text": "Apply teacher-provided criteria to evaluate musical works or performances."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 9,
+    "anchor_standard_text": "Apply criteria to evaluate artistic work.\nEnduring Understanding: The personal evaluation of musical work(s) and performance(s) is informed by analysis, interpretation, and teacher- or student- established criteria. Essential Question: How do we judge the quality of musical work(s) and performance(s)?",
+    "grade": "7th",
+    "standard_title": "MU:Re9.1.7a",
+    "standard_text": "Identify and describe the effect of interest, experience, analysis, and context on the evaluation of music."
+  },
+  {
+    "heading": "Responding",
+    "anchor_standard_number": 9,
+    "anchor_standard_text": "Apply criteria to evaluate artistic work.\nEnduring Understanding: The personal evaluation of musical work(s) and performance(s) is informed by analysis, interpretation, and teacher- or student- established criteria. Essential Question: How do we judge the quality of musical work(s) and performance(s)?",
+    "grade": "8th",
+    "standard_title": "MU:Re9.1.8a",
+    "standard_text": "Explain the influence of experiences, analysis, and context on interest in and evaluation of music."
+  },
+  {
+    "heading": "Connecting",
+    "anchor_standard_number": 10,
+    "anchor_standard_text": "Synthesize and relate knowledge and personal experiences to make art.\nEnduring Understanding: Musicians connect their personal interests, experiences, ideas, and knowledge to creating, performing, and responding. Essential Question: How do musicians make meaningful connections to creating, performing, and responding?",
+    "grade": "Pre K",
+    "standard_title": "MU:Cn10.1.PKa",
+    "standard_text": "Demonstrate how interests, knowledge, and skills relate to personal choices and intent when creating, performing, and responding to music as developmentally appropriate."
+  },
+  {
+    "heading": "Connecting",
+    "anchor_standard_number": 10,
+    "anchor_standard_text": "Synthesize and relate knowledge and personal experiences to make art.\nEnduring Understanding: Musicians connect their personal interests, experiences, ideas, and knowledge to creating, performing, and responding. Essential Question: How do musicians make meaningful connections to creating, performing, and responding?",
+    "grade": "Kindergarten",
+    "standard_title": "MU:Cn10.1.Ka",
+    "standard_text": "Demonstrate how interests, knowledge, and skills relate to personal choices and intent when creating, performing, and responding to music as developmentally appropriate."
+  },
+  {
+    "heading": "Connecting",
+    "anchor_standard_number": 10,
+    "anchor_standard_text": "Synthesize and relate knowledge and personal experiences to make art.\nEnduring Understanding: Musicians connect their personal interests, experiences, ideas, and knowledge to creating, performing, and responding. Essential Question: How do musicians make meaningful connections to creating, performing, and responding?",
+    "grade": "1st",
+    "standard_title": "MU:Cn10.1.1a",
+    "standard_text": "Demonstrate how interests, knowledge, and skills relate to personal choices and intent when creating, performing, and responding to music as developmentally appropriate."
+  },
+  {
+    "heading": "Connecting",
+    "anchor_standard_number": 10,
+    "anchor_standard_text": "Synthesize and relate knowledge and personal experiences to make art.\nEnduring Understanding: Musicians connect their personal interests, experiences, ideas, and knowledge to creating, performing, and responding. Essential Question: How do musicians make meaningful connections to creating, performing, and responding?",
+    "grade": "2nd",
+    "standard_title": "MU:Cn10.1.2a",
+    "standard_text": "Demonstrate how interests, knowledge, and skills relate to personal choices and intent when creating, performing, and responding to music as developmentally appropriate."
+  },
+  {
+    "heading": "Connecting",
+    "anchor_standard_number": 10,
+    "anchor_standard_text": "Synthesize and relate knowledge and personal experiences to make art.\nEnduring Understanding: Musicians connect their personal interests, experiences, ideas, and knowledge to creating, performing, and responding. Essential Question: How do musicians make meaningful connections to creating, performing, and responding?",
+    "grade": "3rd",
+    "standard_title": "MU:Cn10.1.3a",
+    "standard_text": "Demonstrate how interests, knowledge, and skills relate to personal choices and intent when creating, performing, and responding to music as developmentally appropriate."
+  },
+  {
+    "heading": "Connecting",
+    "anchor_standard_number": 10,
+    "anchor_standard_text": "Synthesize and relate knowledge and personal experiences to make art.\nEnduring Understanding: Musicians connect their personal interests, experiences, ideas, and knowledge to creating, performing, and responding. Essential Question: How do musicians make meaningful connections to creating, performing, and responding?",
+    "grade": "4th",
+    "standard_title": "MU:Cn10.1.4a",
+    "standard_text": "Demonstrate how interests, knowledge, and skills relate to personal choices and intent when creating, performing, and responding to music as developmentally appropriate."
+  },
+  {
+    "heading": "Connecting",
+    "anchor_standard_number": 10,
+    "anchor_standard_text": "Synthesize and relate knowledge and personal experiences to make art.\nEnduring Understanding: Musicians connect their personal interests, experiences, ideas, and knowledge to creating, performing, and responding. Essential Question: How do musicians make meaningful connections to creating, performing, and responding?",
+    "grade": "5th",
+    "standard_title": "MU:Cn10.1.5a",
+    "standard_text": "Demonstrate how interests, knowledge, and skills relate to personal choices and intent when creating, performing, and responding to music as developmentally appropriate."
+  },
+  {
+    "heading": "Connecting",
+    "anchor_standard_number": 10,
+    "anchor_standard_text": "Synthesize and relate knowledge and personal experiences to make art.\nEnduring Understanding: Musicians connect their personal interests, experiences, ideas, and knowledge to creating, performing, and responding. Essential Question: How do musicians make meaningful connections to creating, performing, and responding?",
+    "grade": "6th",
+    "standard_title": "MU:Cn10.1.6a",
+    "standard_text": "Demonstrate how interests, knowledge, and skills relate to personal choices and intent when creating, performing, and responding to music as developmentally appropriate."
+  },
+  {
+    "heading": "Connecting",
+    "anchor_standard_number": 10,
+    "anchor_standard_text": "Synthesize and relate knowledge and personal experiences to make art.\nEnduring Understanding: Musicians connect their personal interests, experiences, ideas, and knowledge to creating, performing, and responding. Essential Question: How do musicians make meaningful connections to creating, performing, and responding?",
+    "grade": "7th",
+    "standard_title": "MU:Cn10.1.7a",
+    "standard_text": "Demonstrate how interests, knowledge, and skills relate to personal choices and intent when creating, performing, and responding to music as developmentally appropriate."
+  },
+  {
+    "heading": "Connecting",
+    "anchor_standard_number": 10,
+    "anchor_standard_text": "Synthesize and relate knowledge and personal experiences to make art.\nEnduring Understanding: Musicians connect their personal interests, experiences, ideas, and knowledge to creating, performing, and responding. Essential Question: How do musicians make meaningful connections to creating, performing, and responding?",
+    "grade": "8th",
+    "standard_title": "MU:Cn10.1.8a",
+    "standard_text": "Demonstrate how interests, knowledge, and skills relate to personal choices and intent when creating, performing, and responding to music as developmentally appropriate."
+  },
+  {
+    "heading": "Connecting",
+    "anchor_standard_number": 11,
+    "anchor_standard_text": "Relate artistic ideas and works with societal, cultural, and historical context to deepen understanding\nEnduring Understanding: Understanding connections to varied contexts and daily life enhances musicians’ creating, performing, and responding. Essential Question: How do the other arts, other disciplines, contexts, and daily life inform creating, performing, and responding to music?",
+    "grade": "Pre K",
+    "standard_title": "MU:Cn11.1.PKa",
+    "standard_text": "Demonstrate understanding\nof relationships between music and the other arts, other disciplines, varied contexts, and daily life as developmentally appropriate."
+  },
+  {
+    "heading": "Connecting",
+    "anchor_standard_number": 11,
+    "anchor_standard_text": "Relate artistic ideas and works with societal, cultural, and historical context to deepen understanding\nEnduring Understanding: Understanding connections to varied contexts and daily life enhances musicians’ creating, performing, and responding. Essential Question: How do the other arts, other disciplines, contexts, and daily life inform creating, performing, and responding to music?",
+    "grade": "Kindergarten",
+    "standard_title": "MU:Cn11.1.Ka",
+    "standard_text": "Demonstrate understanding\nof relationships between music and the other arts, other disciplines, varied contexts, and daily life as developmentally appropriate."
+  },
+  {
+    "heading": "Connecting",
+    "anchor_standard_number": 11,
+    "anchor_standard_text": "Relate artistic ideas and works with societal, cultural, and historical context to deepen understanding\nEnduring Understanding: Understanding connections to varied contexts and daily life enhances musicians’ creating, performing, and responding. Essential Question: How do the other arts, other disciplines, contexts, and daily life inform creating, performing, and responding to music?",
+    "grade": "1st",
+    "standard_title": "MU:Cn11.1.1a",
+    "standard_text": "Demonstrate understanding\nof relationships between music and the other arts, other disciplines, varied contexts, and daily life as developmentally appropriate."
+  },
+  {
+    "heading": "Connecting",
+    "anchor_standard_number": 11,
+    "anchor_standard_text": "Relate artistic ideas and works with societal, cultural, and historical context to deepen understanding\nEnduring Understanding: Understanding connections to varied contexts and daily life enhances musicians’ creating, performing, and responding. Essential Question: How do the other arts, other disciplines, contexts, and daily life inform creating, performing, and responding to music?",
+    "grade": "2nd",
+    "standard_title": "MU:Cn11.1.2a",
+    "standard_text": "Demonstrate understanding\nof relationships between music and the other arts, other disciplines, varied contexts, and daily life as developmentally appropriate."
+  },
+  {
+    "heading": "Connecting",
+    "anchor_standard_number": 11,
+    "anchor_standard_text": "Relate artistic ideas and works with societal, cultural, and historical context to deepen understanding\nEnduring Understanding: Understanding connections to varied contexts and daily life enhances musicians’ creating, performing, and responding. Essential Question: How do the other arts, other disciplines, contexts, and daily life inform creating, performing, and responding to music?",
+    "grade": "3rd",
+    "standard_title": "MU:Cn11.1.3a",
+    "standard_text": "Demonstrate understanding\nof relationships between music and the other arts, other disciplines, varied contexts, and daily life as developmentally appropriate."
+  },
+  {
+    "heading": "Connecting",
+    "anchor_standard_number": 11,
+    "anchor_standard_text": "Relate artistic ideas and works with societal, cultural, and historical context to deepen understanding\nEnduring Understanding: Understanding connections to varied contexts and daily life enhances musicians’ creating, performing, and responding. Essential Question: How do the other arts, other disciplines, contexts, and daily life inform creating, performing, and responding to music?",
+    "grade": "4th",
+    "standard_title": "MU:Cn11.1.4a",
+    "standard_text": "Demonstrate understanding\nof relationships between music and the other arts, other disciplines, varied contexts, and daily life as developmentally appropriate."
+  },
+  {
+    "heading": "Connecting",
+    "anchor_standard_number": 11,
+    "anchor_standard_text": "Relate artistic ideas and works with societal, cultural, and historical context to deepen understanding\nEnduring Understanding: Understanding connections to varied contexts and daily life enhances musicians’ creating, performing, and responding. Essential Question: How do the other arts, other disciplines, contexts, and daily life inform creating, performing, and responding to music?",
+    "grade": "5th",
+    "standard_title": "MU:Cn11.1.5a",
+    "standard_text": "Demonstrate understanding\nof relationships between music and the other arts, other disciplines, varied contexts, and daily life as developmentally appropriate."
+  },
+  {
+    "heading": "Connecting",
+    "anchor_standard_number": 11,
+    "anchor_standard_text": "Relate artistic ideas and works with societal, cultural, and historical context to deepen understanding\nEnduring Understanding: Understanding connections to varied contexts and daily life enhances musicians’ creating, performing, and responding. Essential Question: How do the other arts, other disciplines, contexts, and daily life inform creating, performing, and responding to music?",
+    "grade": "6th",
+    "standard_title": "MU:Cn11.1.6a",
+    "standard_text": "Demonstrate understanding\nof relationships between music and the other arts, other disciplines, varied contexts, and daily life as developmentally appropriate."
+  },
+  {
+    "heading": "Connecting",
+    "anchor_standard_number": 11,
+    "anchor_standard_text": "Relate artistic ideas and works with societal, cultural, and historical context to deepen understanding\nEnduring Understanding: Understanding connections to varied contexts and daily life enhances musicians’ creating, performing, and responding. Essential Question: How do the other arts, other disciplines, contexts, and daily life inform creating, performing, and responding to music?",
+    "grade": "7th",
+    "standard_title": "MU:Cn11.1.7a",
+    "standard_text": "Demonstrate understanding\nof relationships between music and the other arts, other disciplines, varied contexts, and daily life as developmentally appropriate."
+  },
+  {
+    "heading": "Connecting",
+    "anchor_standard_number": 11,
+    "anchor_standard_text": "Relate artistic ideas and works with societal, cultural, and historical context to deepen understanding\nEnduring Understanding: Understanding connections to varied contexts and daily life enhances musicians’ creating, performing, and responding. Essential Question: How do the other arts, other disciplines, contexts, and daily life inform creating, performing, and responding to music?",
+    "grade": "8th",
+    "standard_title": "MU:Cn11.1.8a",
+    "standard_text": "Demonstrate understanding\nof relationships between music and the other arts, other disciplines, varied contexts, and daily life as developmentally appropriate."
   }
 ]
