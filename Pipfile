@@ -10,6 +10,11 @@ django = "*"
 psycopg2-binary = "*"
 djangorestframework = "*"
 djangorestframework-simplejwt = "*"
+restframeworkauthtoken = "*"
+httpie-api-auth = "*"
+rest-framework-json-api = "*"
+djangorestframework-jsonapi = "*"
+django-filter = "*"
 
 [requires]
 python_version = "3.7"
