@@ -27,7 +27,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
-
 # Application definition
 
 INSTALLED_APPS = [
@@ -40,20 +39,27 @@ INSTALLED_APPS = [
     'crafting_core_lessons',
     'rest_framework',
     'rest_framework_json_api',
-#     'rest_framework.authToken',
+    'corsheaders',
+
 ]
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
+    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
+
+JWT_AUTH = {
+    'JWT_RESPONSE_PAYLOAD_HANDLER': 'core_lessons_project.utils.my_jwt_response_handler'
+}
+
 REST_FRAMEWORK = {
-#         'EXCEPTION_HANDLER': 'rest_framework_json_api.exceptions.exception_handler',
+        'EXCEPTION_HANDLER': 'rest_framework_json_api.exceptions.exception_handler',
         'DEFAULT_PAGINATION_CLASS':
             'rest_framework_json_api.pagination.JsonApiPageNumberPagination',
             'PAGE_SIZE': 10,
@@ -78,12 +84,20 @@ REST_FRAMEWORK = {
             'rest_framework_json_api.renderers.JSONRenderer',
         ),
         'TEST_REQUEST_DEFAULT_FORMAT': 'vnd.api+json',
-        'DEFAULT_AUTHENTICATION_CLASSES': [
-                'rest_framework_simplejwt.authentication.JWTAuthentication',
-#                 'rest_framework.authentication.TokenAuthentication',
-            ],
+        'DEFAULT_PERMISSION_CLASSES': (
+                'rest_framework.permissions.IsAuthenticated',
+            ),
+        'DEFAULT_AUTHENTICATION_CLASSES': (
+                'rest_framework_jwt.authentication.JSONWebTokenAuthentication',
+                'rest_framework.authentication.SessionAuthentication',
+                'rest_framework.authentication.BasicAuthentication',
+            ),
 }
 ROOT_URLCONF = 'core_lessons_project.urls'
+
+CORS_ORIGIN_WHITELIST = (
+    'http://localhost:3000',
+)
 
 TEMPLATES = [
     {

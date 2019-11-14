@@ -15,6 +15,8 @@ httpie-api-auth = "*"
 rest-framework-json-api = "*"
 djangorestframework-jsonapi = "*"
 django-filter = "*"
+djangorestframework-jwt = "*"
+django-cors-headers = "*"
 
 [requires]
 python_version = "3.7"
