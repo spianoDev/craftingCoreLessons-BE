@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/2.2/ref/settings/
 """
 
 import os
+import django_heroku
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -62,7 +63,7 @@ REST_FRAMEWORK = {
         'EXCEPTION_HANDLER': 'rest_framework_json_api.exceptions.exception_handler',
         'DEFAULT_PAGINATION_CLASS':
             'rest_framework_json_api.pagination.JsonApiPageNumberPagination',
-            'PAGE_SIZE': 10,
+#             'PAGE_SIZE': 10,
         'DEFAULT_PARSER_CLASSES': (
             'rest_framework_json_api.parsers.JSONParser',
             'rest_framework.parsers.FormParser',
@@ -80,18 +81,18 @@ REST_FRAMEWORK = {
             'rest_framework.filters.SearchFilter',
         ),
         'SEARCH_PARAM': 'filter[search]',
-        'TEST_REQUEST_RENDERER_CLASSES': (
-            'rest_framework_json_api.renderers.JSONRenderer',
-        ),
-        'TEST_REQUEST_DEFAULT_FORMAT': 'vnd.api+json',
-        'DEFAULT_PERMISSION_CLASSES': (
-                'rest_framework.permissions.IsAuthenticated',
-            ),
-        'DEFAULT_AUTHENTICATION_CLASSES': (
-                'rest_framework_jwt.authentication.JSONWebTokenAuthentication',
-                'rest_framework.authentication.SessionAuthentication',
-                'rest_framework.authentication.BasicAuthentication',
-            ),
+#         'TEST_REQUEST_RENDERER_CLASSES': (
+#             'rest_framework_json_api.renderers.JSONRenderer',
+#         ),
+#         'TEST_REQUEST_DEFAULT_FORMAT': 'vnd.api+json',
+#         'DEFAULT_PERMISSION_CLASSES': (
+#                 'rest_framework.permissions.IsAuthenticated',
+#             ),
+#         'DEFAULT_AUTHENTICATION_CLASSES': (
+#                 'rest_framework_jwt.authentication.JSONWebTokenAuthentication',
+#                 'rest_framework.authentication.SessionAuthentication',
+#                 'rest_framework.authentication.BasicAuthentication',
+#             ),
 }
 ROOT_URLCONF = 'core_lessons_project.urls'
 
@@ -169,3 +170,4 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
 
 STATIC_URL = '/static/'
+django_heroku.settings(locals())

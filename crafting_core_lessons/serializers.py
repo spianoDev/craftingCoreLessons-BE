@@ -34,14 +34,6 @@ class UserSerializerWithToken(serializers.ModelSerializer):
         fields = ['token', 'username', 'password',]
 
 class StandardSerializer(serializers.ModelSerializer):
-#     lessons = serializers.HyperlinkedRelatedField(
-#         view_name='lesson_detail',
-#         many=True,
-#         read_only=True
-#     )
-#     standard_url = serializers.ModelSerializer.serializer_url_field(
-#             view_name='standard_detail'
-#         )
 
     class Meta:
         model = Standard
@@ -49,10 +41,7 @@ class StandardSerializer(serializers.ModelSerializer):
         'standard_title', 'standard_text', ]
 
 class LessonSerializer(serializers.ModelSerializer):
-#     data = serializers.PrimaryKeyRelatedField(
-#         view_name='standard_detail',
-#         read_only=True
-#     )
+
     class Meta:
         model = Lesson
         fields = ['id', 'name', 'grade', 'topic', 'materials', 'vocab', 'description', 'activities',
