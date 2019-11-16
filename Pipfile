@@ -8,7 +8,6 @@ verify_ssl = true
 [packages]
 psycopg2-binary = "*"
 djangorestframework = "*"
-djangorestframework-simplejwt = "*"
 httpie-api-auth = "*"
 djangorestframework-jsonapi = "*"
 django-filter = "*"
@@ -16,7 +15,7 @@ djangorestframework-jwt = "*"
 django-cors-headers = "*"
 gunicorn = "*"
 django-heroku = "*"
-Django = "*"
+django = "*"
 pip = "*"
 new-package = "*"
 
