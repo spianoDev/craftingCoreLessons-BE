@@ -2,21 +2,29 @@
 
 {% block content %}
 
-<div >
+<div class="lesson">
 
-    <h2>Lesson: {{lesson.name}}, Grade {{lesson.grade}} - {{lesson.topic}}</h2>
-    <h3>Standards</h3>
-    {% for standard.data in lesson.standard.all %}
-    {{ standard.data }}
+    <h2 class="heading">Lesson: </h2>
+    <h3 class="title">{{lesson.name}}, Grade {{lesson.grade}} - {{lesson.topic}}</h3>
+    <h3 >Standards</h3>
+    <p>{{lesson.standard_title}}</p>
+    {% for standard in lesson.standard_title.data.all %}
+    <h4 >{{ standard }}</h4>
     <br/>
+
     {% endfor %}
-    <h4>Important Vocabulary: {{lesson.vocab}}</h4>
-    <p>Description: {{lesson.description}}</p>
-    <p>Activities: {{lesson.activities}}</p>
-    <p>Accommodations: {{lesson.accommodations}}</p>
+
+    <h3 >Important Vocabulary:</h3>
+    <p> {{lesson.vocab}}</p>
+    <h3>Description: </h3>
+    <p>{{lesson.description}}</p>
+    <h3>Activities: </h3>
+    <p>{{lesson.activities}}</p>
+    <h3>Accommodations: </h3>
+    <p>{{lesson.accommodations}}</p>
 
 </div>
-<a href="{% url 'lesson_edit' pk=lesson.pk %}">Edit this Lesson</a>
+<a class="individual-lesson" href="{% url 'lesson_edit' pk=lesson.pk %}">Edit this Lesson</a>
 
 <form action="{% url 'lesson_delete' pk=lesson.pk %}" method="POST">
     {% csrf_token %}
