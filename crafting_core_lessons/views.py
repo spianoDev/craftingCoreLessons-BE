@@ -6,6 +6,7 @@ from django.contrib.auth.models import User
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from django.shortcuts import render, redirect
+from .forms import LessonForm
 
 # @api_view(['GET', 'POST'])
 # def current_user(request):
@@ -51,3 +52,28 @@ def lesson_list(request):
 def lesson_detail(request, pk):
     lesson = Lesson.objects.get(id = pk)
     return render(request, 'lesson_detail.html', {'lesson': lesson})
+
+def lesson_create(request):
+    if request.method == 'POST':
+        form = LessonForm(request.POST)
+        if form.is_valid():
+            lesson = form.save()
+            return redirect('lesson_detail', pk=lesson.pk)
+    else:
+        form = LessonForm()
+    return render(request, 'lesson_form.html', {'form': form})
+
+def lesson_edit(request, pk):
+    lesson = Lesson.objects.get(pk=pk)
+    if request.method == "POST":
+        form = LessonForm(request.POST, instance=lesson)
+        if form.is_valid():
+            lesson = form.save()
+            return redirect('lesson_detail', pk=lesson.pk)
+    else:
+        form = LessonForm(instance=lesson)
+    return render(request, 'lesson_form.html', {'form': form})
+
+def lesson_delete(request, pk):
+    Lesson.objects.get(id=pk).delete()
+    return redirect('lesson_list')
