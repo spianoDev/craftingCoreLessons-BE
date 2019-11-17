@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<div >
+
+    <h2>Lesson: {{lesson.name}}, Grade {{lesson.grade}} - {{lesson.topic}}</h2>
+    <h3>Standards</h3>
+    {% for standard in lesson.standards.all %}
+    {{ standard.data.id }}
+    <br/>
+    {% endfor %}
+    <h4>Important Vocabulary: {{lesson.vocab}}</h4>
+    <p>Description: {{lesson.description}}</p>
+    <p>Activities: {{lesson.activities}}</p>
+    <p>Accommodations: {{lesson.accommodations}}</p>
+
+</div>
+
+{% endblock %}

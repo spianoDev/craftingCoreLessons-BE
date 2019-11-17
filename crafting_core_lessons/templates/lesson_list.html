@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1 class="heading">Welcome to Crafting Core Lesson Plans</h1>
+<h2 class="heading"> Browse the complete list of lessons and click on the link to view the individual plan.</h2>
+<div class="list-group">
+    {% for lesson in lessons %}
+    <div class="list-group-item list-group-item-action">
+        <h3><a href="{% url 'lesson_detail' pk=lesson.pk %}">{{lesson.name}}</a></h3>
+        <h4>A lesson on {{lesson.topic}} for {{lesson.grade}} grade.</h4>
+
+    </div>
+    {% endfor %}
+</div>
+<div class="list-group">
+
+
+</div>
+{% endblock %}

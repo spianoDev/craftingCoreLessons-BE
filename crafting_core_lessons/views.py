@@ -5,6 +5,7 @@ from .serializers import StandardSerializer, LessonSerializer, UserSerializer, U
 from django.contrib.auth.models import User
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
+from django.shortcuts import render, redirect
 
 # @api_view(['GET', 'POST'])
 # def current_user(request):
@@ -38,3 +39,15 @@ class LessonList(generics.ListCreateAPIView):
 class LessonDetail(generics.RetrieveUpdateDestroyAPIView):
     queryset = Lesson.objects.all()
     serializer_class = LessonSerializer
+
+def standard_list(request):
+    standards = Standard.objects.all()
+    return render(request, 'standard_list.html', {'standards': standards})
+
+def lesson_list(request):
+    lessons = Lesson.objects.all()
+    return render(request, 'lesson_list.html', {'lessons': lessons})
+
+def lesson_detail(request, pk):
+    lesson = Lesson.objects.get(id = pk)
+    return render(request, 'lesson_detail.html', {'lesson': lesson})
