@@ -15,6 +15,4 @@ urlpatterns = [
     path('lesson-detail/<int:pk>/edit', views.lesson_edit, name='lesson_edit'),
     path('lesson-detail/<int:pk>/delete', views.lesson_delete, name='lesson_delete')
 
-#     path('current_user/', views.current_user, name='current_user'),
-#     path('users/', views.UserList.as_view(), name='user_list'),
 ]

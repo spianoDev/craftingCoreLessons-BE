@@ -7,9 +7,9 @@
     <h2 class="heading">Lesson: </h2>
     <h3 class="title">{{lesson.name}}, Grade {{lesson.grade}} - {{lesson.topic}}</h3>
     <h3 >Standards</h3>
-    <p>{{lesson.standard_title}}</p>
-    {% for standard in lesson.standard_title.data.all %}
-    <h4 >{{ standard }}</h4>
+    <p>{{lesson.standard_title.data}}</p>
+    {% for standard in lesson.standard.all %}
+    <h4 >{{ standard.standard_title.data }}</h4>
     <br/>
 
     {% endfor %}
