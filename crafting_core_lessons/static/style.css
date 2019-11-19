@@ -1,9 +1,7 @@
 body {
-    background-image: url("andards-background.jpg");
+    background-image: url("../static/images/standards-background.jpg");
     display: block;
     max-width: 1050px;
-
-
 }
 
 .heading {
