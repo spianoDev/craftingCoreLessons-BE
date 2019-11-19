@@ -11,11 +11,11 @@ urlpatterns = [
     path('lesson/new', views.LessonDetail.as_view(), name='lesson_detail'),
     path('lesson/update/<int:pk>', views.LessonDetail.as_view(), name='lesson_detail'),
     path('lesson/delete/<int:pk>', views.LessonDetail.as_view(), name='lesson_detail'),
-#     path('standard-list/', views.standard_list, name='standard_list'),
-#     path('lesson-list/', views.lesson_list, name='lesson_list'),
-#     path('lesson-detail/<int:pk>', views.lesson_detail, name='lesson_detail'),
-#     path('lesson/new/', views.lesson_create, name='lesson_create'),
-#     path('lesson-detail/<int:pk>/edit', views.lesson_edit, name='lesson_edit'),
-#     path('lesson-detail/<int:pk>/delete', views.lesson_delete, name='lesson_delete')
+    path('standard-list/', views.standard_list, name='standard_list'),
+    path('lesson-list/', views.lesson_list, name='lesson_list'),
+    path('lesson-detail/<int:pk>', views.lesson_detail, name='lesson_detail'),
+    path('lesson/new/', views.lesson_create, name='lesson_create'),
+    path('lesson-detail/<int:pk>/edit', views.lesson_edit, name='lesson_edit'),
+    path('lesson-detail/<int:pk>/delete', views.lesson_delete, name='lesson_delete')
 
 ]

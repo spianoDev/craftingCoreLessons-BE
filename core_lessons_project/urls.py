@@ -17,6 +17,8 @@ from django.contrib import admin
 from django.urls import path, include
 from django.conf.urls import include
 from rest_framework_jwt.views import obtain_jwt_token
+from django.conf import settings
+from django.conf.urls.static import static
 
 
 urlpatterns = [
@@ -25,6 +27,7 @@ urlpatterns = [
     path('api-auth/', include('rest_framework.urls', namespace='rest_framework')),
     path('token-auth/', obtain_jwt_token),
     path('core/', include('core.urls')),
+    path('react/', static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)),
 
 # #     path('api-token-auth/', obtain_auth_token, name='api_token_auth'),
 #     path('api/token/', jwt_views.TokenObtainPairView.as_view(), name='token_obtain_pair'),
