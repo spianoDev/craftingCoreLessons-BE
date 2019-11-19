@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'rest_framework_json_api',
     'corsheaders',
+    'core.apps.CoreConfig'
 
 ]
 
@@ -81,18 +82,21 @@ REST_FRAMEWORK = {
             'rest_framework.filters.SearchFilter',
         ),
         'SEARCH_PARAM': 'filter[search]',
+#         'DEFAULT_PERMISSION_CLASSES': [
+#                 'rest_framework.permissions.AllowAny'
+#             ]
 #         'TEST_REQUEST_RENDERER_CLASSES': (
 #             'rest_framework_json_api.renderers.JSONRenderer',
 #         ),
 #         'TEST_REQUEST_DEFAULT_FORMAT': 'vnd.api+json',
-#         'DEFAULT_PERMISSION_CLASSES': (
-#                 'rest_framework.permissions.IsAuthenticated',
-#             ),
-#         'DEFAULT_AUTHENTICATION_CLASSES': (
-#                 'rest_framework_jwt.authentication.JSONWebTokenAuthentication',
-#                 'rest_framework.authentication.SessionAuthentication',
-#                 'rest_framework.authentication.BasicAuthentication',
-#             ),
+        'DEFAULT_PERMISSION_CLASSES': (
+                'rest_framework.permissions.IsAuthenticated',
+            ),
+        'DEFAULT_AUTHENTICATION_CLASSES': (
+                'rest_framework_jwt.authentication.JSONWebTokenAuthentication',
+                'rest_framework.authentication.SessionAuthentication',
+                'rest_framework.authentication.BasicAuthentication',
+            ),
 }
 ROOT_URLCONF = 'core_lessons_project.urls'
 

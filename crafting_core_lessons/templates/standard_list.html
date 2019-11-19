@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1 class="heading">Browse all Music Standards</h1>
+<div class="list-group">
+    <h2 class="list-group-item active"> Music Standards </h2>
+    {% for standard in standards %}
+    <div class="list-group-item list-group-item-action">
+        <h2>Grade: {{standard.grade}} - {{standard.heading}}, {{standard.anchor_standard_number}}</h2>
+        <h3>{{standard.anchor_standard_text}}</h3>
+        <h4>{{standard.standard_title}}: {{standard.standard_text}}</h4>
+    </div>
+    {% endfor %}
+</div>
+
+{% endblock %}
