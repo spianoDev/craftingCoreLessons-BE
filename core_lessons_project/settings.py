@@ -82,13 +82,13 @@ REST_FRAMEWORK = {
             'rest_framework.filters.SearchFilter',
         ),
         'SEARCH_PARAM': 'filter[search]',
-#         'DEFAULT_PERMISSION_CLASSES': [
-#                 'rest_framework.permissions.AllowAny'
-#             ]
-#         'TEST_REQUEST_RENDERER_CLASSES': (
-#             'rest_framework_json_api.renderers.JSONRenderer',
-#         ),
-#         'TEST_REQUEST_DEFAULT_FORMAT': 'vnd.api+json',
+        'DEFAULT_PERMISSION_CLASSES': [
+                'rest_framework.permissions.AllowAny'
+            ],
+        'TEST_REQUEST_RENDERER_CLASSES': (
+            'rest_framework_json_api.renderers.JSONRenderer',
+        ),
+        'TEST_REQUEST_DEFAULT_FORMAT': 'vnd.api+json',
         'DEFAULT_PERMISSION_CLASSES': (
                 'rest_framework.permissions.IsAuthenticated',
             ),
@@ -100,9 +100,9 @@ REST_FRAMEWORK = {
 }
 ROOT_URLCONF = 'core_lessons_project.urls'
 
-CORS_ORIGIN_WHITELIST = (
-    'http://localhost:3000', 'https://spianodev.github.io/',
-)
+# CORS_ORIGIN_WHITELIST = (
+#     'http://localhost:3000', 'https://spianodev.github.io/',
+# )
 
 TEMPLATES = [
     {
