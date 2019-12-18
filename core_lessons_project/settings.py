@@ -100,9 +100,9 @@ REST_FRAMEWORK = {
 }
 ROOT_URLCONF = 'core_lessons_project.urls'
 
-# CORS_ORIGIN_WHITELIST = (
-#     'http://localhost:3000', 'https://spianodev.github.io/',
-# )
+CORS_ORIGIN_WHITELIST = (
+    'http://localhost:3000', 'https://spianodev.github.io/',
+)
 
 TEMPLATES = [
     {
