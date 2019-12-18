@@ -15,17 +15,19 @@ def current_user(request):
 
 class UserList(APIView):
     permission_classes = (permissions.AllowAny,)
-    authentication_classes = (authentication.TokenAuthentication)
+#     authentication_classes = (JSONWebTokenAuthentication,)
+#         permission_classes = (IsOwner,)
+#     authentication_classes = (authentication.TokenAuthentication)
 
-    def get(self, request, format=None):
-        """
-        Returns a list of all users
-        """
-        users = [user.users for user in User.objects.all()]
-        return Response(users)
+#     def get(self, request, format=None):
+#         """
+#         Returns a list of all users
+#         """
+#         users = [user.users for user in User.objects.all()]
+#         return Response(users)
 
     def post(self, request):
-        user = request.data.get('user')
+        user = request.data
         if not user:
             return Response({'response': 'error', 'message': 'No data found'})
         serializer = UserSerializerWithToken(data=user)

@@ -31,14 +31,8 @@ class UserSerializerWithToken(serializers.ModelSerializer):
         user.save()
         return user
 
-
     class Meta:
         model = User
         fields = ('token', 'username', 'password')
 
-# password = validated_data.pop('password', None)
-#         instance = self.Meta.model(**validated_data)
-#         if password is not None:
-#             instance.set_password(password)
-#         instance.save()
-#         return instance
+#
