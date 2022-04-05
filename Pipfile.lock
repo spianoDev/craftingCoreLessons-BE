@@ -18,13 +18,16 @@
     "default": {
         "certifi": {
             "hashes": [
+
                 "sha256:78884e7c1d4b00ce3cea67b44566851c4343c120abd683433ce934a68ea58872",
                 "sha256:d62a0163eb4c2344ac042ab2bdf75399a71a2d8c7d47eac2e2ee91b9d6339569"
             ],
             "version": "==2021.10.8"
+
         },
         "charset-normalizer": {
             "hashes": [
+
                 "sha256:2857e29ff0d34db842cd7ca3230549d1a697f96ee6d3fb071cfa6c7393832597",
                 "sha256:6881edbebdb17b39b4eaaa821b438bf6eddffb4468cf344f09f89def34a8b1df"
             ],
@@ -38,6 +41,7 @@
             ],
             "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4'",
             "version": "==0.7.1"
+
         },
         "dj-database-url": {
             "hashes": [
@@ -80,11 +84,11 @@
         },
         "djangorestframework": {
             "hashes": [
-                "sha256:5488aed8f8df5ec1d70f04b2114abc52ae6729748a176c453313834a9ee179c8",
-                "sha256:dc81cbf9775c6898a580f6f1f387c4777d12bd87abf0f5406018d32ccae71090"
+                "sha256:5cc724dc4b076463497837269107e1995b1fbc917468d1b92d188fd1af9ea789",
+                "sha256:a5967b68a04e0d97d10f4df228e30f5a2d82ba63b9d03e1759f84993b7bf1b53"
             ],
             "index": "pypi",
-            "version": "==3.10.3"
+            "version": "==3.11.2"
         },
         "djangorestframework-jsonapi": {
             "hashes": [
@@ -112,11 +116,13 @@
         },
         "httpie": {
             "hashes": [
+
                 "sha256:2e4a2040b84a912e65c01fb34f7aafe88cad2a3af2da8c685ca65080f376feda",
                 "sha256:5e8d5d3cacee73cc3e60bba3be0b837010032d624e29ea92617b204ba6a676fb"
             ],
             "index": "pypi",
             "version": "==3.1.0"
+
         },
         "httpie-api-auth": {
             "hashes": [
@@ -128,6 +134,7 @@
         },
         "idna": {
             "hashes": [
+
                 "sha256:84d9dd047ffa80596e0f246e2eab0b391788b0503584e8945f2368256d2735ff",
                 "sha256:9d643ff0a55b762d5cdb124b8eaa99c66322e2157b69160bc32796e824360e6d"
             ],
@@ -141,12 +148,14 @@
             ],
             "markers": "python_version < '3.8'",
             "version": "==4.11.2"
+
         },
         "inflection": {
             "hashes": [
                 "sha256:1a29730d366e996aaacffb2f1f1cb9593dc38e2ddd30c91250c6dde09ea9b417",
                 "sha256:f38b2b640938a4f35ade69ac3d053042959b62a0f1076a5bbaa1b9526605a8a2"
             ],
+
             "markers": "python_version >= '3.5'",
             "version": "==0.5.1"
         },
@@ -214,6 +223,7 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==6.0.2"
+
         },
         "new-package": {
             "hashes": [
@@ -233,6 +243,7 @@
         },
         "psycopg2": {
             "hashes": [
+
                 "sha256:06f32425949bd5fe8f625c49f17ebb9784e1e4fe928b7cce72edc36fb68e4c0c",
                 "sha256:0762c27d018edbcb2d34d51596e4346c983bd27c330218c56c4dc25ef7e819bf",
                 "sha256:083707a696e5e1c330af2508d8fab36f9700b26621ccbcb538abe22e15485362",
@@ -247,6 +258,7 @@
             ],
             "markers": "python_version >= '3.6'",
             "version": "==2.9.3"
+
         },
         "psycopg2-binary": {
             "hashes": [
@@ -288,11 +300,13 @@
         },
         "pygments": {
             "hashes": [
+
                 "sha256:44238f1b60a76d78fc8ca0528ee429702aae011c265fe6a8dd8b63049ae41c65",
                 "sha256:4e426f72023d88d03b2fa258de560726ce890ff3b630f88c21cbb8b2503b8c6a"
             ],
             "markers": "python_version >= '3.5'",
             "version": "==2.11.2"
+
         },
         "pyjwt": {
             "hashes": [
@@ -311,16 +325,19 @@
         },
         "pytz": {
             "hashes": [
+
                 "sha256:3672058bc3453457b622aab7a1c3bfd5ab0bdae451512f6cf25f64ed37f5b87c",
                 "sha256:acad2d8b20a1af07d4e4c9d2e9285c5ed9104354062f275f3fcd88dcef4f1326"
             ],
             "version": "==2021.3"
+
         },
         "requests": {
             "extras": [
                 "socks"
             ],
             "hashes": [
+
                 "sha256:68d7c56fd5a8999887728ef304a6d12edc7be74f1cfa47714fc8b414525c9a61",
                 "sha256:f22fa1e554c9ddfd16e6e41ac79759e17be9e492b3587efa038054674760e72d"
             ],
@@ -381,6 +398,7 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==3.7.0"
+
         }
     },
     "develop": {}
